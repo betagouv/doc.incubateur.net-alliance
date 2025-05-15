@@ -21,9 +21,9 @@ Notre équipe interministérielle combine expertise technique approfondie et con
 
 Notre démarche de développement repose sur trois piliers essentiels :
 
-1. Une expérience utilisateur intuitive qui sensibilise aux bonnes pratiques d'utilisation de l'IA
-2. Un accès facilité et fiable aux données publiques, adapté aux spécificités métier de chaque service
-3. Une maîtrise complète de la chaîne de développement, du modèle à l'architecture en passant par les données et l'évaluation
+1. **Une expérience utilisateur intuitive qui sensibilise aux bonnes pratiques d'utilisation de l'IA**
+2. **Un accès facilité et fiable aux données publiques**, adapté aux spécificités métiers de chaque service
+3. **Une maîtrise complète de la chaîne de développement**, du modèle à l'architecture en passant par les données et l'évaluation
 
 
 
