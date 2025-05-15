@@ -1,8 +1,8 @@
 # Assistant conversationnel
 
-Albert conversation est votre assistant IA qui comprend vos questions formulées naturellement et vous répond intelligemment !&#x20;
+**Albert conversation est votre assistant conversationnel IA qui comprend vos questions formulées naturellement et vous répond intelligemment !**&#x20;
 
-Notre assistant conversationnel [Albert conversation](https://albert.numerique.gouv.fr/) est spécialement conçu pour les agents de la fonction publique d'Etat. Nous détaillons ici quelques définitions et les bonnes pratiques à respecter dans l'usage d'Albert Conversation.&#x20;
+[Albert conversation](https://albert.numerique.gouv.fr/) est spécialement conçu pour les agents de la fonction publique d'Etat. Nous détaillons ici quelques définitions et les bonnes pratiques à respecter dans son usage.&#x20;
 
 
 
@@ -10,10 +10,10 @@ Notre assistant conversationnel [Albert conversation](https://albert.numerique.g
 
 Un assistant conversationnel IA est un programme informatique conçu pour interagir avec les utilisateurs en langage naturel, simulant une conversation humaine tout en s'appuyant sur des technologies d'intelligence artificielle. Voici ses caractéristiques essentielles :
 
-* **Intelligence artificielle générative** : Ces assistants s'appuient sur des modèles de langage avancés (comme GPT, Claude, LLaMA) entraînés sur d'immenses corpus de textes.
-* **Compréhension du langage naturel** : Ils analysent et interprètent les requêtes formulées en langage courant, sans nécessiter de commandes formatées.
-* **Génération de contenu contextuel** : Ils produisent des réponses cohérentes en tenant compte du contexte de la conversation et des échanges précédents.
-* **Interface conversationnelle** : L'interaction se fait sous forme de dialogue, permettant des échanges fluides et intuitifs.
+* **Intelligence artificielle générative** : ces assistants s'appuient sur des modèles de langage avancés (comme GPT, Claude, LLaMA) entraînés sur d'immenses corpus de textes.
+* **Compréhension du langage naturel** : ils analysent et interprètent les requêtes formulées en langage courant, sans nécessiter de commandes formatées.
+* **Génération de contenu contextuel** : ils produisent des réponses cohérentes en tenant compte du contexte de la conversation et des échanges précédents.
+* **Interface conversationnelle** : l'interaction se fait sous forme de dialogue, permettant des échanges fluides et intuitifs.
 
 
 
@@ -21,9 +21,9 @@ Un assistant conversationnel IA est un programme informatique conçu pour intera
 
 Albert conversation peut vous aider de multiples façons, selon vos besoins professionnels. Voici les principaux bénéfices et usages d'Albert conversation :&#x20;
 
-* **La rédaction et la reformulation** : Création, adaptation et amélioration de contenus textuels variés pour pallier au syndrome de la feuille blanche notamment.
-* **La prise de décision** : Analyse de problèmes et proposition de solutions ou recommandations pour élargir votre champ des possibles.
-* **La recherche et synthèse d'informations** : Accès à une base de connaissances pour fournir des informations précises et à jour pour toujours travailler sur des informations fiables sereinement.&#x20;
+* **La rédaction et la reformulation** : création, adaptation et amélioration de contenus textuels variés pour pallier au syndrome de la feuille blanche notamment.
+* **La prise de décision** : analyse de problèmes et proposition de solutions ou recommandations pour élargir votre champ des possibles.
+* **La recherche et synthèse d'informations** : accès à une base de connaissances pour fournir des informations précises et à jour pour toujours travailler sur des informations fiables sereinement.&#x20;
 * **L'analyse et la synthèse de documents** : analyse de vos documents de travail pour en extraire l'information plus rapidement.&#x20;
 
 
