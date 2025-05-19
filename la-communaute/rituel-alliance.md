@@ -9,7 +9,7 @@ icon: calendar-star
 
 ## Rencontre ALLiaNCE
 
-**Tous les deux mois**, la communauté de l'incubateur ALLiaNCE se réunit. Il s’agit d’une journée de rencontres et d’échanges en présentiel pour favoriser le partage d’expérience entre les différentes équipes, les différents ministères et les acteurs privés. Entre 60 et 100 membres de la communauté ALLiaNCE participent à cette journée : équipe produit, intrapreneurs et intrapreneuses, développeurs et développeuses, responsables d’incubateurs ministériels, coachs, designers du secteur public ou privée etc.
+**Tous les deux mois**, la communauté de l'incubateur ALLiaNCE se réunit. Il s’agit d’une journée de rencontres et d’échanges en présentiel pour favoriser le partage d’expérience entre les différentes équipes, les différents ministères et les acteurs privés. Entre 60 et 100 membres de la communauté ALLiaNCE participent à cette journée : équipe produit, intrapreneurs et intrapreneuses, développeurs et développeuses, responsables d’incubateurs ministériels, coachs, designers du secteur public ou privé etc.
 
 Les rencontres ALLiaNCE  se déroulent au lieu de la transformation publique sous format de **forum ouvert**.
 
@@ -24,7 +24,7 @@ Un forum ouvert est une méthode de d'événement où l'ordre du jour est défin
 
 #### **Informations pratiques**&#x20;
 
-**👉 Les informations pratiques (date, heure et lieu) sont communiquées par email ou via le salon tchap** [**Général ALLiaNCE**](https://www.tchap.gouv.fr/#/room/!tPzThAoNsAAClYSczG:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)**. Un formulaire vous sera communiqués pour vous inscrire, dans lequel il est possible de proposer des sujets d'atelier.**
+**👉 Les informations pratiques (date, heure et lieu) sont communiquées par email ou via le salon tchap** [**Général ALLiaNCE**](https://www.tchap.gouv.fr/#/room/!tPzThAoNsAAClYSczG:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)**. Un formulaire vous sera communiqué pour vous inscrire, dans lequel il est possible de proposer des sujets d'atelier.**
 
 **Déroulé-type d'une rencontre ALLiaNCE**
 
