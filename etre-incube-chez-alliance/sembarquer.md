@@ -87,15 +87,13 @@ ALLiaNCE fait partie du réseau d'incubateurs **beta.gouv**, une communauté plu
 {% step %}
 **Participer à une des rencontres ALLiaNCE organisées tous les deux mois**
 
-* [ ] Et pourquoi pas y animer un atelier afin de présenter vos dernières avancées, proposer un co-dev pour qu'on vous aide à trouver des solutions, ou faire une démo sur votre produit !
+Et pourquoi pas y animer un atelier afin de présenter vos dernières avancées, proposer un co-dev pour qu'on vous aide à trouver des solutions, ou faire une démo sur votre produit !
 
 
 {% endstep %}
 
 {% step %}
 **Rencontrer les équipes d'ALLiaNCE en venant travailler à la DINUM au 20 Avenue de Ségur, Paris 15ème, dans les locaux d'Étalab au 5ème étage.**&#x20;
-
-
 {% endstep %}
 
 {% step %}
