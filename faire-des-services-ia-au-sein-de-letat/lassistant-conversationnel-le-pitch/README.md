@@ -16,7 +16,7 @@ L'Assistant IA conversationnel est spécialement conçu pour les agents de la fo
 
 ### Une solution développée pour et par le service public
 
-Notre équipe interministérielle combine **expertise technique** approfondie et **connaissance transversale des cas d'usage dans la sphère publique**. Cette double compétence nous permet de développer un outil parfaitement adapté aux réalités du terrain et aux exigences particulières de l'administration.
+Notre équipe interministérielle combine **expertise technique** et **connaissance transversale des cas d'usage dans la sphère publique**. Cette double compétence nous permet de développer un outil adapté aux réalités du terrain et aux exigences particulières de l'administration.
 
 ### Notre approche
 
@@ -24,7 +24,7 @@ Notre équipe interministérielle combine **expertise technique** approfondie et
 
 {% stepper %}
 {% step %}
-**Une expérience utilisateur intuitive**
+**Une expérience agent intuitive**
 
 &#x20;qui sensibilise aux bonnes pratiques d'utilisation de l'IA
 {% endstep %}

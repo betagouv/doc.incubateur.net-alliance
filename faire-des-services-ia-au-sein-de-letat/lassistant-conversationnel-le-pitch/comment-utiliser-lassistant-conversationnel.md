@@ -1,10 +1,12 @@
 ---
 description: >-
-  Albert conversation est votre assistant conversationnel IA qui comprend vos
-  questions formulées naturellement et vous répond intelligemment !
+  Nous détaillons ici quelques définitions et les bonnes pratiques à respecter
+  dans son usage.
 ---
 
 # Comment utiliser l'Assistant conversationnel
+
+Spécialement conçu pour les agents de la fonction publique d'État, &#x6C;**'**[**Assistant conversationnel**](https://albert.numerique.gouv.fr/$) **comprend vos questions formulées en langage naturel, et vous assiste dans vos tâches du quotidien.**&#x20;
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2025-05-19 à 18.30.43.png" alt=""><figcaption></figcaption></figure>
 

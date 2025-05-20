@@ -17,10 +17,7 @@
 
 ## Faire des services IA au sein de l'État
 
-* [Retours d'expériences](faire-des-services-ia-au-sein-de-letat/retours-dexperiences/README.md)
-  * [Beta-test d'Albert-Api, 5 mois d'expérimentations｜3 avril 2025](faire-des-services-ia-au-sein-de-letat/retours-dexperiences/beta-test-dalbert-api-5-mois-dexperimentations-3-avril-2025.md)
-  * [Retex assistant de réponses virtuel｜ Forum ALLiaNCE du 9 avril 2025](faire-des-services-ia-au-sein-de-letat/retours-dexperiences/retex-assistant-de-reponses-virtuel-forum-alliance-du-9-avril-2025.md)
-* [Albert-api](faire-des-services-ia-au-sein-de-letat/albert-api.md)
+* [Albert-api, l'infra IA souveraine de l'État](faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md)
 * [L'Assistant conversationnel : le pitch](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel-le-pitch/README.md)
   * [Comment utiliser l'Assistant conversationnel](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel-le-pitch/comment-utiliser-lassistant-conversationnel.md)
   * [Qu'est-ce que les compagnons ?](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel-le-pitch/quest-ce-que-les-compagnons/README.md)
@@ -30,9 +27,13 @@
 
 ***
 
+* [Retours d'expériences](retours-dexperiences/README.md)
+  * [Beta-test d'Albert-Api, 5 mois d'expérimentations｜3 avril 2025](retours-dexperiences/beta-test-dalbert-api-5-mois-dexperimentations-3-avril-2025.md)
+  * [Retex assistant de réponses virtuel｜ Forum ALLiaNCE du 9 avril 2025](retours-dexperiences/retex-assistant-de-reponses-virtuel-forum-alliance-du-9-avril-2025.md)
 * [Ressources utiles](ressources-utiles.md)
 
 ## Être incubé chez ALLiaNCE
 
 * [Écrire sa fiche action](etre-incube-chez-alliance/ecrire-sa-fiche-action.md)
 * [S'embarquer](etre-incube-chez-alliance/sembarquer.md)
+* [Guide d'installation des LLMs, à destination des techniques](etre-incube-chez-alliance/guide-dinstallation-des-llms-a-destination-des-techniques.md)
