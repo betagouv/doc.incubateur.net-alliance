@@ -1,4 +1,4 @@
-# Compagnons
+# Qu'est-ce que les compagnons ?
 
 L'équipe Albert conversation accompagne les administrations  pour spécialiser l'usage de l'IA à des métiers et/ou thématiques lorsque les prompts et usages génériques ne suffisent pas.
 
@@ -7,29 +7,18 @@ Cette démarche, menée en co-construction avec les administrations, vise à cr�
 
 ### Types de compagnons&#x20;
 
-* **Compagnons "génériques" :** Ces agents IA ou fonctionnalités sont accessibles à tous les utilisateurs sans restriction. Ils permettent d’appliquer des règles communes, comme la reformulation en langage clair, la consultation ou l’analyse de documents, ou encore l’interrogation de bases documentaires publiques et généralistes. Ces compagnons sont intégrés à la feuille de route d’Albert conversation.
-
-
-
-* **Compagnons "thématiques" :** Ces agents IA sont conçus pour répondre à des questions spécifiques sur une documentation particulière publique et/ou privée, l’accès étant conditionné par les droits accordés par l’administration. Par exemple, ils peuvent donner accès à un référentiel interne d’organisation administrative. Leur conception se fait en partenariat étroit avec les équipes de l’administration propriétaire des données.
-
-
-
-* **Compagnons "métier" :** Développés en collaboration avec les administrations, ces agents IA sont conçus pour répondre à des problématiques métier précises. Leur financement est assuré par les administrations concernées.
-
-
-
-* **Des compagnons "technologiques" :** Ces modules sont destinés aux utilisateurs experts. Ils permettent de créer des moteurs personnalisés, partageables avec d’autres utilisateurs, et intègrent des fonctionnalités avancées telles que la lecture d’images, le RAG (Retrieval-Augmented Generation) ou l’automatisation de workflows d’analyse documentaire. Ces compagnons font également partie de la feuille de route d’Albert conversation.
-
-
+* **Compagnons "génériques" :** ces agents IA ou fonctionnalités sont accessibles à tous les utilisateurs sans restriction. Ils permettent d’appliquer des règles communes, comme la reformulation en langage clair, la consultation ou l’analyse de documents, ou encore l’interrogation de bases documentaires publiques et généralistes. Ces compagnons sont intégrés à la feuille de route d’Albert conversation.
+* **Compagnons "thématiques" :** ces agents IA sont conçus pour répondre à des questions spécifiques sur une documentation particulière publique et/ou privée, l’accès étant conditionné par les droits accordés par l’administration. Par exemple, ils peuvent donner accès à un référentiel interne d’organisation administrative. Leur conception se fait en partenariat étroit avec les équipes de l’administration propriétaire des données.
+* **Compagnons "métier" :** développés en collaboration avec les administrations, ces agents IA sont conçus pour répondre à des problématiques métier précises. Leur financement est assuré par les administrations concernées.
+* **Des compagnons "technologiques" :** ces modules sont destinés aux utilisateurs experts. Ils permettent de créer des moteurs personnalisés, partageables avec d’autres utilisateurs, et intègrent des fonctionnalités avancées telles que la lecture d’images, le RAG (Retrieval-Augmented Generation) ou l’automatisation de workflows d’analyse documentaire. Ces compagnons font également partie de la feuille de route d’Albert conversation.
 
 
 
 ### Construction d'un compagnon métier&#x20;
 
+{% hint style="info" %}
 _La construction d’un compagnon est en version alpha. Les phases peuvent être remodelées selon nos apprentissages._
-
-
+{% endhint %}
 
 Le développement d’un compagnon métier suit un processus itératif, actuellement en version alpha, qui s’adapte en fonction des retours d’expérience :
 
@@ -38,8 +27,6 @@ Le développement d’un compagnon métier suit un processus itératif, actuelle
 * **Déploiement :** Étendre l’utilisation du compagnon à un large public au sein de l’administration, tout en transférant progressivement la gestion et le suivi à l’expert métier partenaire.
 
 Cette approche permet de proposer des assistants IA adaptés aux besoins concrets des agents publics, en s’appuyant sur des solutions souveraines, sécurisées et co-construites avec les utilisateurs finaux
-
-
 
 
 
