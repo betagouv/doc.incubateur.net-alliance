@@ -23,7 +23,7 @@
   * [Qu'est-ce que les compagnons ?](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel-le-pitch/quest-ce-que-les-compagnons/README.md)
     * [Compagnons : Checklist entrée en construction](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel-le-pitch/quest-ce-que-les-compagnons/compagnons-checklist-entree-en-construction.md)
   * [L'Assistant conversationnel et Open Web UI](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel-le-pitch/lassistant-conversationnel-et-open-web-ui.md)
-* [Le paronama des solutions IA dans l'État : comment recenser mon produit ?](faire-des-services-ia-au-sein-de-letat/le-paronama-des-solutions-ia-dans-letat-comment-recenser-mon-produit.md)
+* [Le paronama des solutions IA dans l'État](faire-des-services-ia-au-sein-de-letat/le-paronama-des-solutions-ia-dans-letat.md)
 
 ***
 
