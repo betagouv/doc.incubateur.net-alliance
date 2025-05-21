@@ -2,6 +2,7 @@
 description: >-
   Nous détaillons ici quelques définitions et les bonnes pratiques à respecter
   dans son usage.
+hidden: true
 ---
 
 # Comment utiliser l'Assistant conversationnel

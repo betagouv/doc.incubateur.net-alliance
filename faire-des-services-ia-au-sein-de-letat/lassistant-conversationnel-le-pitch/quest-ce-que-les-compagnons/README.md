@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Qu'est-ce que les compagnons ?
 
 L'équipe Albert conversation accompagne les administrations  pour spécialiser l'usage de l'IA à des métiers et/ou thématiques lorsque les prompts et usages génériques ne suffisent pas.
