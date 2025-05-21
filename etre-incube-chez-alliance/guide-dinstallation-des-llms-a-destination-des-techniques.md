@@ -8,9 +8,9 @@ icon: microchip
 
 # Guide d'installation des LLMs, à destination des techniques
 
-**Développé dans le cadre de la troisième saison du Programme 10% d’Etalab**, en partenariat avec la DINUM et l’Insee, ce guide accompagne les techniques pour la mise en production d’un modèle adapté à leur besoin au sein de l'État.&#x20;
+**Développé dans le cadre de la troisième saison du Programme 10% d’Etalab**, en partenariat entre plusieurs administrations au sein de l'État, ce guide accompagne les techniques pour la mise en production d’un modèle adapté à leur besoin au sein de l'État.&#x20;
 
-Il propose des recommandations concrètes sur le choix des modèles, les infrastructures nécessaires, les techniques de fine-tuning, d’évaluation et de déploiement, tout en abordant les aspects environnementaux et financiers liés à l’utilisation des LLM.
+Il propose des recommandations concrètes sur le **choix des modèles**, les **infrastructures nécessaires**, les **techniques de fine-tuning**, d’**évaluation et de déploiement**, tout en abordant les **aspects environnementaux et financiers liés à l’utilisation des LLM**.
 
 <a href="https://etalab.github.io/programme10pourcent-kallm/" class="button primary">Aller vers le guide</a>
 
@@ -21,7 +21,7 @@ Il propose des recommandations concrètes sur le choix des modèles, les infrast
 
 * Un datascientist au sein d'un service de l'État
 * Un ingénieur ou architecte de la donnée
-* Un développeur au sein d'une équipe produit qui veut intégrer l'IA dans son servic
+* Un développeur au sein d'une équipe produit qui veut intégrer l'IA dans son service
 {% endhint %}
 
 #### Ce que couvre le guide en bref&#x20;
