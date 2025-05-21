@@ -47,6 +47,6 @@ Ce recensement vise à **cartographier les projets d’intelligence artificielle
 
 {% hint style="info" %}
 ✉️ **Une question ?**\
-Utilisez le champ libre à la fin du formulaire pour nous écrire à alliance@numerique.gouv.fr.
+Utilisez le champ libre à la fin du formulaire pour nous écrire.
 {% endhint %}
 

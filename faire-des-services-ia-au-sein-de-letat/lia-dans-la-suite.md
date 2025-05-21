@@ -23,9 +23,9 @@ Concrètement, il s'agit de permettre à un agent de **résumer une réunion Vis
 
 
 
-### Comment utiliser l'IA dans la suite ?&#x20;
+### Comment utiliser l'IA dans La Suite Numérique ?&#x20;
 
-Il est déjà possible d'utiliser l'IA dans la suite, notamment dans le tableur collaboratif GRIST, ainsi que dans Docs, l'éditeur de notes.&#x20;
+Il est déjà possible d'utiliser l'IA dans La Suite, notamment dans le tableur collaboratif GRIST, ainsi que dans Docs, l'éditeur de notes.&#x20;
 
 #### Générer des formules dans GRIST
 
