@@ -29,19 +29,45 @@ Il est déjà possible d'utiliser l'IA dans la suite, notamment dans le tableur 
 
 #### Générer des formules dans GRIST
 
+
+
 <figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdgG-k4v4vOj4-GuY6qnGG0zoIt0lBMPTN7NxEllQsyXGuhntzthpXeYaPcZ0w3R0NMvziKnI-uCXCsifz9Dfiy87AuDCZtdpPw7CssntfuVuZUUprX-FpylFj4hyFnKphCe-M_mg=s2048?key=_B7B0aumyWbnXs-0AXswqZsn" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://grist.numerique.gouv.fr/" %}
 
 #### Utiliser un prompt directeur dans Docs&#x20;
 
+{% hint style="success" %}
+**Cas d'usage :** utiliser les fonctionnalités d’intelligence textuelle de Docs pour reformuler une portion du texte officiel en langage simplifié, facile à lire et à écrire (FALC).&#x20;
+{% endhint %}
+
 <figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcLHGdMrVFxJkfFCP7aIMZJf5IVMWy35EUYCV21ZS9m5UTc_vBxqqUiDgZzdpY-iQRuGub75ojRw3aW2OoHv_oz7hxUnClIQIPH2oe4UW149EzWGqgkPdOLdwc-ahgRKYKLKMEZ5A=s2048?key=_B7B0aumyWbnXs-0AXswqZsn" alt=""><figcaption></figcaption></figure>
+
+{% stepper %}
+{% step %}
+Sélectionner une portion de texte pour  (en bleu) ;
+{% endstep %}
+
+{% step %}
+Cliquer sur l’icône en forme d'étoiles scintillantes ;
+{% endstep %}
+
+{% step %}
+Ouvrir le menu d’options contextuelles et cliquer sur `Utiliser comme un prompt` :
+
+* **`Reformuler`**
+* **`Résumer`**
+* **`Corriger`**
+* **`Langue`**
+* <mark style="color:purple;background-color:purple;">**`Utiliser comme un prompt`**</mark>
+{% endstep %}
+{% endstepper %}
 
 {% embed url="https://docs.numerique.gouv.fr/" %}
 
 ### Vous en voulez plus ?&#x20;
 
-L'incubateur ALLiaNCE accompagne les équipes qui souhaitent développer des services IA sur leur cas d'usage, directement intégrés dans les outils de la suite : \
+L'incubateur ALLiaNCE accompagne les équipes qui souhaitent développer des services IA sur leur cas d'usage, directement intégrés dans les outils de la suite :\
 
 
 * **Tchap** : messagerie instantanée sécurisée pour les agents publics, permettant des échanges professionnels confidentiels.&#x20;
@@ -51,6 +77,8 @@ L'incubateur ALLiaNCE accompagne les équipes qui souhaitent développer des ser
 * **Visio** (BETA) : solution de visioconférence adaptée aux besoins des administrations.
 * **Messagerie** (BETA) : service de messagerie électronique sécurisé pour les communications professionnelles. \
 
+
+**Les informations ci-après pour faire une demander d'incubation auprès de l'équipe :**&#x20;
 
 {% embed url="https://alliance.numerique.gouv.fr/%C3%AAtre-accompagn%C3%A9-par-alliance/%C3%AAtre-incub%C3%A9/" %}
 
