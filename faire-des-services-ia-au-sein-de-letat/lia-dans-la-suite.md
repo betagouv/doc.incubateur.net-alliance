@@ -25,11 +25,9 @@ Concrètement, il s'agit de permettre à un agent de **résumer une réunion Vis
 
 ### Comment utiliser l'IA dans La Suite Numérique ?&#x20;
 
-Il est déjà possible d'utiliser l'IA dans La Suite, notamment dans le tableur collaboratif GRIST, ainsi que dans Docs, l'éditeur de notes.&#x20;
+Il est déjà possible d'utiliser l'IA dans La Suite, notamment dans le tableur collaboratif Grist, ainsi que dans Docs, l'éditeur de notes.&#x20;
 
 #### Générer des formules dans GRIST
-
-
 
 <figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdgG-k4v4vOj4-GuY6qnGG0zoIt0lBMPTN7NxEllQsyXGuhntzthpXeYaPcZ0w3R0NMvziKnI-uCXCsifz9Dfiy87AuDCZtdpPw7CssntfuVuZUUprX-FpylFj4hyFnKphCe-M_mg=s2048?key=_B7B0aumyWbnXs-0AXswqZsn" alt=""><figcaption></figcaption></figure>
 
@@ -45,11 +43,11 @@ Il est déjà possible d'utiliser l'IA dans La Suite, notamment dans le tableur 
 
 {% stepper %}
 {% step %}
-Sélectionner une portion de texte pour  (en bleu) ;
+Sélectionner une portion de texte pour  (en bleu), puis clique droit ;
 {% endstep %}
 
 {% step %}
-Cliquer sur l’icône en forme d'étoiles scintillantes ;
+Cliquer sur l’icône en forme d'étoiles scintillantes :sparkles: ;
 {% endstep %}
 
 {% step %}
