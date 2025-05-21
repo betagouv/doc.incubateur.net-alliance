@@ -46,22 +46,14 @@ Albert conversation comprend le langage naturel. Toutefois, pour en tirer le mei
 
 
 
-### <mark style="color:red;">Info techno</mark> &#x20;
+### Quels modèles sont proposés dans l'Assistant conversationnel ?&#x20;
 
-Pour son socle technologique Albert conversationnel s'appuie sur Albert-API&#x20;
+Les modèles actuellement proposés dans l'Assistant conversationnel s'appuie sur les modèles généralistes proposés par Albert-API dont l'apprentissage prend fin&#x20;
 
-* <mark style="color:red;">mettre des info sur Albert API : modele, infra -> mettre une page Albert API en lien pour connaitre les modèles dispo, et autres info tech que nous n'aurons pas besoin de réécrire à chaque modif</mark>&#x20;
-* infra SECNUMCLOUD ? sécurisation des données ... ?&#x20;
+* au 4ème trimestre 2023 pour Albert-tâches simples&#x20;
+* au 4ème trimestre 2023 pour Albert-tâches complexes &#x20;
 
-
-
-Logique d'apprentissage -> fin octobre 2023 actuellement
+[En savoir plus sur Albert-api](../albert-api-linfra-ia-souveraine-de-letat.md)&#x20;
 
 
 
-
-
-### :books: Ressources&#x20;
-
-* webinaire tuto&#x20;
-* autres docs pertinentes&#x20;
