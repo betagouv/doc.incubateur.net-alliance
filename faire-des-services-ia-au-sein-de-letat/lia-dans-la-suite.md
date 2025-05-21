@@ -76,7 +76,7 @@ L'incubateur ALLiaNCE accompagne les équipes qui souhaitent développer des ser
 * **Messagerie** (BETA) : service de messagerie électronique sécurisé pour les communications professionnelles. \
 
 
-**Les informations ci-après pour faire une demander d'incubation auprès de l'équipe :**&#x20;
+**Les informations ci-après pour faire une demande d'incubation auprès de l'équipe :**&#x20;
 
 {% embed url="https://alliance.numerique.gouv.fr/%C3%AAtre-accompagn%C3%A9-par-alliance/%C3%AAtre-incub%C3%A9/" %}
 
