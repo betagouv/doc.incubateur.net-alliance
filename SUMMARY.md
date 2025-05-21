@@ -18,10 +18,10 @@
 ## Faire des services IA au sein de l'État
 
 * [Albert-api, l'infra IA souveraine de l'État](faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md)
-* [L'Assistant conversationnel : le pitch](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel-le-pitch/README.md)
-  * [Comment utiliser l'Assistant conversationnel](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel-le-pitch/comment-utiliser-lassistant-conversationnel.md)
-  * [Qu'est-ce que les compagnons ?](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel-le-pitch/quest-ce-que-les-compagnons/README.md)
-    * [Compagnons : Checklist entrée en construction](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel-le-pitch/quest-ce-que-les-compagnons/compagnons-checklist-entree-en-construction.md)
+* [L'Assistant conversationnel](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel/README.md)
+  * [Comment utiliser l'Assistant conversationnel](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel/comment-utiliser-lassistant-conversationnel.md)
+  * [Qu'est-ce que les compagnons ?](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel/quest-ce-que-les-compagnons/README.md)
+    * [Compagnons : Checklist entrée en construction](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel/quest-ce-que-les-compagnons/compagnons-checklist-entree-en-construction.md)
 * [L'IA dans la suite](faire-des-services-ia-au-sein-de-letat/lia-dans-la-suite.md)
 * [Le paronama des solutions IA dans l'État](faire-des-services-ia-au-sein-de-letat/le-paronama-des-solutions-ia-dans-letat.md)
 
