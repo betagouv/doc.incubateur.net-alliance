@@ -7,7 +7,7 @@ hidden: true
 
 # Comment utiliser l'Assistant conversationnel
 
-Spécialement conçu pour les agents de la fonction publique d'État, &#x6C;**'**[**Assistant conversationnel**](https://albert.numerique.gouv.fr/$) **comprend vos questions formulées en langage naturel, et vous assiste dans vos tâches du quotidien.**&#x20;
+Spécialement conçu pour les agents de la fonction publique d'État, &#x6C;**'**[**Assistant conversationnel**](https://albert.numerique.gouv.fr/) **comprend vos questions formulées en langage naturel, et vous assiste dans vos tâches du quotidien.**&#x20;
 
 
 
