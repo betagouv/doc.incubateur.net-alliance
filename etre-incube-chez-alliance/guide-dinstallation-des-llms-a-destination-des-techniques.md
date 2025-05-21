@@ -8,7 +8,7 @@ icon: microchip
 
 # Guide d'installation des LLMs, à destination des techniques
 
-**Développé dans le cadre de la troisième saison du Programme 10% d’Etalab**, en partenariat entre plusieurs administrations au sein de l'État, ce guide accompagne les techniques pour la mise en production d’un modèle adapté à leur besoin au sein de l'État.&#x20;
+**Développé dans le cadre de la troisième saison du Programme 10% d’Etalab**, en partenariat entre plusieurs administrations, ce guide accompagne les techniques pour la mise en production d’un modèle adapté à leur besoin au sein de l'État.&#x20;
 
 Il propose des recommandations concrètes sur le **choix des modèles**, les **infrastructures nécessaires**, les **techniques de fine-tuning**, d’**évaluation et de déploiement**, tout en abordant les **aspects environnementaux et financiers liés à l’utilisation des LLM**.
 
