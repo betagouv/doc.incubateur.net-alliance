@@ -31,11 +31,13 @@ Il est déjà possible d'utiliser l'IA dans la suite, notamment dans le tableur 
 
 <figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdgG-k4v4vOj4-GuY6qnGG0zoIt0lBMPTN7NxEllQsyXGuhntzthpXeYaPcZ0w3R0NMvziKnI-uCXCsifz9Dfiy87AuDCZtdpPw7CssntfuVuZUUprX-FpylFj4hyFnKphCe-M_mg=s2048?key=_B7B0aumyWbnXs-0AXswqZsn" alt=""><figcaption></figcaption></figure>
 
-
+{% embed url="https://grist.numerique.gouv.fr/" %}
 
 #### Utiliser un prompt directeur dans Docs&#x20;
 
 <figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcLHGdMrVFxJkfFCP7aIMZJf5IVMWy35EUYCV21ZS9m5UTc_vBxqqUiDgZzdpY-iQRuGub75ojRw3aW2OoHv_oz7hxUnClIQIPH2oe4UW149EzWGqgkPdOLdwc-ahgRKYKLKMEZ5A=s2048?key=_B7B0aumyWbnXs-0AXswqZsn" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://docs.numerique.gouv.fr/" %}
 
 ### Vous en voulez plus ?&#x20;
 
@@ -47,5 +49,8 @@ L'incubateur ALLiaNCE accompagne les équipes qui souhaitent développer des ser
 * **Grist** : outil collaboratif pour la gestion et l'édition de jeux de données, facilitant le travail en équipe sur des bases de données personnalisées.&#x20;
 * **Docs** (BETA) : application de traitement de texte en ligne pour la rédaction et le partage de documents.
 * **Visio** (BETA) : solution de visioconférence adaptée aux besoins des administrations.
-* **Messagerie** (BETA) : service de messagerie électronique sécurisé pour les communications professionnelles.&#x20;
+* **Messagerie** (BETA) : service de messagerie électronique sécurisé pour les communications professionnelles. \
+
+
+{% embed url="https://alliance.numerique.gouv.fr/%C3%AAtre-accompagn%C3%A9-par-alliance/%C3%AAtre-incub%C3%A9/" %}
 
