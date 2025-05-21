@@ -51,7 +51,7 @@ Albert conversation comprend le langage naturel. Toutefois, pour en tirer le mei
 Les modèles actuellement proposés dans l'Assistant conversationnel s'appuie sur les modèles généralistes proposés par Albert-API dont l'apprentissage prend fin&#x20;
 
 * au 4ème trimestre 2023 pour Albert-tâches simples&#x20;
-* au 4ème trimestre 2023 pour Albert-tâches complexes &#x20;
+* au 4ème trimestre 2024 pour Albert-tâches complexes &#x20;
 
 [En savoir plus sur Albert-api](../albert-api-linfra-ia-souveraine-de-letat.md)&#x20;
 
