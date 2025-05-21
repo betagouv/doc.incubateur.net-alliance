@@ -1,7 +1,7 @@
 ---
 description: >-
   Nous détaillons ici quelques définitions et les bonnes pratiques à respecter
-  dans son usage.
+  pour utiliser l'Assistant conversationnel de l'État.
 hidden: true
 ---
 
@@ -9,9 +9,7 @@ hidden: true
 
 Spécialement conçu pour les agents de la fonction publique d'État, &#x6C;**'**[**Assistant conversationnel**](https://albert.numerique.gouv.fr/$) **comprend vos questions formulées en langage naturel, et vous assiste dans vos tâches du quotidien.**&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-05-19 à 18.30.43.png" alt=""><figcaption></figcaption></figure>
 
-[Albert conversation](https://albert.numerique.gouv.fr/) est spécialement conçu pour les agents de la fonction publique d'Etat. Nous détaillons ici quelques définitions et les bonnes pratiques à respecter dans son usage.&#x20;
 
 ### Qu'est-ce qu'un Assistant Conversationnel IA ?
 
