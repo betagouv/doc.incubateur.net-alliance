@@ -5,7 +5,7 @@ description: >-
 icon: laptop-mobile
 ---
 
-# L'Assistant IA dans la suite
+# L'IA dans la suite
 
 Dans le cadre du plan interministériel sur l’IA générative, l’intégration progressive de fonctionnalités IA dans les outils de la **Suite Numérique** vise à améliorer l’efficacité des agents dans leurs usages quotidiens : rédaction, organisation de fichiers, prise de note, gestion collaborative. L’objectif est clair : **apporter de l’IA là où les agents travaillent déjà**, sans changer leurs habitudes, tout en garantissant un cadre souverain et sécurisé.
 
@@ -36,14 +36,14 @@ Il est déjà possible d'utiliser l'IA dans La Suite, notamment dans le tableur 
 #### Utiliser un prompt directeur dans Docs&#x20;
 
 {% hint style="success" %}
-**Cas d'usage :** utiliser les fonctionnalités d’intelligence textuelle de Docs pour reformuler une portion du texte officiel en langage simplifié, facile à lire et à écrire (FALC).&#x20;
+**Cas d'usage :** utiliser les fonctionnalités d’intelligence textuelle de Docs pour reformuler une portion du texte officiel en langage facile à lire et à écrire (FALC).&#x20;
 {% endhint %}
 
 <figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcLHGdMrVFxJkfFCP7aIMZJf5IVMWy35EUYCV21ZS9m5UTc_vBxqqUiDgZzdpY-iQRuGub75ojRw3aW2OoHv_oz7hxUnClIQIPH2oe4UW149EzWGqgkPdOLdwc-ahgRKYKLKMEZ5A=s2048?key=_B7B0aumyWbnXs-0AXswqZsn" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
-Sélectionner une portion de texte pour  (en bleu), puis clique droit ;
+Sélectionner la portion du texte qui décrit votre requête (en bleu), puis clique droit ;
 {% endstep %}
 
 {% step %}
