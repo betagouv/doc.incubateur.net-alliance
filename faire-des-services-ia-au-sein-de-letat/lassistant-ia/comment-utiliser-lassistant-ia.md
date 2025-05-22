@@ -5,7 +5,7 @@ description: >-
 hidden: true
 ---
 
-# Comment utiliser l'Assistant conversationnel
+# Comment utiliser l'Assistant IA
 
 Spécialement conçu pour les agents de la fonction publique d'État, &#x6C;**'**[**Assistant conversationnel**](https://albert.numerique.gouv.fr/) **comprend vos questions formulées en langage naturel, et vous assiste dans vos tâches du quotidien.**&#x20;
 
