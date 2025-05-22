@@ -13,8 +13,6 @@ Cette documentation est en construction. Merci de signaler à l'équipe ALLiaNCE
 
 ### Un incubateur IA pour le service public
 
-ALLiaNCE est l’incubateur et la communauté IA publiques, pour les agents publics de l’État qui souhaitent **faire adopter l’IA au service de la vie des gens** et **des agents**. Nous nous appuyons sur la Direction interministérielle du numérique (DINUM) pour proposer des services numériques innovants et ouverts **à l’état de l’art directement utilisables et dérivables** dans différents cas d’usage au sein de la sphère publiqu&#x65;**.**&#x20;
-
 **ALLiaNCE est un incubateur et une communauté d'acteurs développant des IA publiques**, destinées aux agents de l’État souhaitant intégrer l’IA pour améliorer les service publics pour les citoyens et des citoyennes. Nous nous appuyons sur la stratégie IA de la direction interministérielle du numérique (DINUM) pour proposer des produits numériques innovants et ouverts, à la pointe de la technologie, directement utilisables et adaptables à divers cas d’usage dans la sphère publique.
 
 
