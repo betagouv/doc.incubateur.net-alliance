@@ -32,8 +32,8 @@ Ce recensement vise à **cartographier les projets d’intelligence artificielle
 {% step %}
 **Avant de commencer**, vous pouvez :
 
-* Consulter les projets déjà recensés : \[lien à compléter]
-* Rejoindre le canal Tchap pour modifier un projet existant : \[infos à compléter]
+* [Consulter les projets déjà recensés](https://grist.numerique.gouv.fr/o/etalab/2BXtzHFoPVB9/Produits-IA-dans-lEtat?utm_id=share-doc)
+* [Rejoindre le canal Tchap pour modifier un projet existant](https://matrix.to/#/!MqmVrWuAPzbaCTeOQh:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)
 {% endstep %}
 
 {% step %}
@@ -41,9 +41,11 @@ Ce recensement vise à **cartographier les projets d’intelligence artificielle
 {% endstep %}
 {% endstepper %}
 
-<a href="https://grist.numerique.gouv.fr/o/docs/forms/4gbM2fb3qSMaFjFYGWRtog/4" class="button primary">Recenser ma solution</a>
+<a href="https://grist.numerique.gouv.fr/o/etalab/forms/3pxovLSgmtzUW37vPLgj6K/4" class="button primary">Recenser ma solution IA</a> <a href="https://grist.numerique.gouv.fr/o/etalab/2BXtzHFoPVB9/Produits-IA-dans-lEtat/p/data" class="button primary">Voir le panorama</a>
 
-
+{% hint style="warning" %}
+Il faut être connecté sur Grist via Proconnect pour avoir accès au panorama.&#x20;
+{% endhint %}
 
 {% hint style="info" %}
 ✉️ **Une question ?**\
