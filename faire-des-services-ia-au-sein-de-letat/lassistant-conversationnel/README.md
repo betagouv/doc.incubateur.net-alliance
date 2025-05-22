@@ -6,7 +6,7 @@ hidden: true
 icon: message-smile
 ---
 
-# L'Assistant conversationnel
+# L'Assistant IA de la suite
 
 L'Assistant IA conversationnel est spécialement conçu pour les agents de la fonction publique d'État, leur offrant un outil **souverain** et **sécurisé** pour **accélérer leurs tâches quotidiennes** grâce à l'intelligence artificielle.
 
