@@ -1,6 +1,5 @@
 ---
 description: Une carte qui vous permet de naviguer dans les solutions IA de l'État.
-hidden: true
 icon: map
 ---
 
