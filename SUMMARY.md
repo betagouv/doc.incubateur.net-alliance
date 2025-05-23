@@ -2,12 +2,12 @@
 
 * [Bienvenue chez ALLiaNCE !](README.md)
 
-## En apprendre plus sur nous et sur notre culture
+## À propos d'ALLiaNCE
 
-* [Nos missions](en-apprendre-plus-sur-nous-et-sur-notre-culture/nos-missions.md)
-* [Nos objectifs](en-apprendre-plus-sur-nous-et-sur-notre-culture/nos-objectifs/README.md)
-  * [Règles de vie de l'incubateur](en-apprendre-plus-sur-nous-et-sur-notre-culture/nos-objectifs/regles-de-vie-de-lincubateur.md)
-* [L'équipe de l'incubateur](en-apprendre-plus-sur-nous-et-sur-notre-culture/lequipe-de-lincubateur.md)
+* [Nos missions](a-propos-dalliance/nos-missions.md)
+* [Nos objectifs](a-propos-dalliance/nos-objectifs/README.md)
+  * [Règles de vie de l'incubateur](a-propos-dalliance/nos-objectifs/regles-de-vie-de-lincubateur.md)
+* [L'équipe de l'incubateur](a-propos-dalliance/lequipe-de-lincubateur.md)
 
 ***
 
@@ -15,15 +15,21 @@
   * [Rencontres ALLiaNCE](la-communaute/rencontres-alliance.md)
   * [Entraide communautaire](la-communaute/entraide-communautaire.md)
 
+## Utiliser l'IA au sein de l'État
+
+***
+
+* [Utiliser l'IA générative dans l'administration](utiliser-lia-generative-dans-ladministration.md)
+* [L'IA dans la Suite numérique](lia-dans-la-suite-numerique.md)
+* [L'Assistant IA](lassistant-ia/README.md)
+  * [Comment utiliser l'Assistant IA](lassistant-ia/comment-utiliser-lassistant-ia.md)
+  * [Qu'est-ce que les compagnons ?](lassistant-ia/quest-ce-que-les-compagnons/README.md)
+    * [Compagnons : Checklist entrée en construction](lassistant-ia/quest-ce-que-les-compagnons/compagnons-checklist-entree-en-construction.md)
+
 ## Faire des services IA au sein de l'État
 
-* [Albert-api, l'infra IA souveraine de l'État](faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md)
-* [L'Assistant IA](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel/README.md)
-  * [Comment utiliser l'Assistant IA](faire-des-services-ia-au-sein-de-letat/lassistant-ia/comment-utiliser-lassistant-ia.md)
-  * [Qu'est-ce que les compagnons ?](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel/quest-ce-que-les-compagnons/README.md)
-    * [Compagnons : Checklist entrée en construction](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel/quest-ce-que-les-compagnons/compagnons-checklist-entree-en-construction.md)
-* [L'IA dans la Suite numérique](faire-des-services-ia-au-sein-de-letat/lia-dans-la-suite-numerique.md)
 * [Le panorama des solutions IA dans l'État](faire-des-services-ia-au-sein-de-letat/le-panorama-des-solutions-ia-dans-letat.md)
+* [Albert-api, l'infra IA souveraine de l'État](faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md)
 * [Open Web UI commu](faire-des-services-ia-au-sein-de-letat/open-web-ui-commu.md)
 
 ***

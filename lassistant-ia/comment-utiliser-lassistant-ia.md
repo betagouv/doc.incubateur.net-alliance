@@ -53,7 +53,7 @@ Les modèles actuellement proposés dans l'Assistant conversationnel s'appuie su
 * au 4ème trimestre 2023 pour Albert-tâches simples&#x20;
 * au 4ème trimestre 2024 pour Albert-tâches complexes &#x20;
 
-[En savoir plus sur Albert-api](../albert-api-linfra-ia-souveraine-de-letat.md)&#x20;
+[En savoir plus sur Albert-api](../faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md)&#x20;
 
 
 
