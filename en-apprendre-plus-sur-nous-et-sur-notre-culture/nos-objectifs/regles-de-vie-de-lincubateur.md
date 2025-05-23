@@ -19,20 +19,19 @@ Comme pour tout citoyen, la loi interdit toute forme d'expression à caractère 
 
 En cas de besoin, vous pouvez utiliser notre guide, faire appel au groupe de soutien, à l'équipe animation et à vos responsables.
 
-### **3️⃣ Principe de neutralité et devoir de réserve**
+### **3️⃣ Principe de neutralité**
 
 En tant qu’agents publics ou prestataires en mission pour le service public, nous sommes soumis au **principe de neutralité**. Ce principe interdit de manifester ses opinions politiques, philosophiques ou religieuses dans l’exercice de ses fonctions.
 
-* **Neutralité dans les espaces communs :** Le principe de neutralité s’applique particulièrement dans les espaces communs et interministériels mis à disposition par la communauté ALLiaNCE. Les membres s’engagent à utiliser ces espaces dans le respect de l’obligation de discrétion et du secret professionnels.
-* **Devoir de réserve :** Les agents publics doivent faire preuve de réserve et de retenue dans l'expression de leurs opinions personnelles, y compris en dehors de l’exercice de leurs fonctions.
+Le principe de neutralité s’applique particulièrement dans les espaces communs et interministériels mis à disposition par la communauté ALLiaNCE. Les membres s’engagent à utiliser ces espaces dans le respect de l’obligation de discrétion et du secret professionnels.
 
-### **4️⃣ Comportements Non Tolérés**
+### **4️⃣ Comportements non tolérés**
 
 Les espaces de la communauté doivent être accueillants pour tous. Toute violence ou menace dans les échanges verbaux ou en ligne est prohibée. Les comportements ou propos sexistes, homophobes, racistes, antisémites, validistes, discriminants, transphobes, sérophobes, grossophobes sont considérés comme abusifs et ne sont pas tolérés.
 
 Il est attendu de toutes et **tous de participer à la bienveillance des espaces communs**. Cela inclut d’éviter les critiques personnelles, de désamorcer les situations de tension, de respecter les identités et cultures des autres, et de faire des efforts pour prononcer/écrire correctement les noms des personnes et utiliser les pronoms qu’elles préfèrent.
 
-### **5️⃣ Processus de Modération**
+### **5️⃣ Processus de modération**
 
 Dans le cadre des activités et espaces gérés par la communauté ALLiaNCE, une modération peut être effectuée par les responsables de la communauté. Voici le processus de modération :
 
@@ -53,7 +52,7 @@ L'entraide est au cœur de la communauté. Les membres doivent être prêts à a
 
 La communauté doit régulièrement évaluer son fonctionnement et ses pratiques. Les membres sont encouragés à proposer des améliorations et à participer aux processus d'évaluation. L'objectif est de créer un environnement toujours plus efficace et enrichissant.
 
-### **9️⃣ Respect des Réglementations**
+### **9️⃣ Respect des règlementations**
 
 Enfin, toutes les activités de la communauté doivent respecter les réglementations en vigueur, notamment en matière de protection des données personnelles et de sécurité informatique. Les membres doivent être conscients des obligations légales et s'y conformer scrupuleusement.
 

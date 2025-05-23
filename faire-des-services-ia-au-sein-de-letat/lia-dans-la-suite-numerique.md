@@ -5,9 +5,9 @@ description: >-
 icon: laptop-mobile
 ---
 
-# L'IA dans la suite
+# L'IA dans la Suite numérique
 
-Dans le cadre du plan interministériel sur l’IA générative, l’intégration progressive de fonctionnalités IA dans les outils de la **Suite Numérique** vise à améliorer l’efficacité des agents dans leurs usages quotidiens : rédaction, organisation de fichiers, prise de note, gestion collaborative. L’objectif est clair : **apporter de l’IA là où les agents travaillent déjà**, sans changer leurs habitudes, tout en garantissant un cadre souverain et sécurisé.
+Dans le cadre du plan interministériel sur l’IA générative, l’intégration progressive de fonctionnalités IA dans les outils de la [**Suite Numérique**](https://lasuite.numerique.gouv.fr/) vise à améliorer l’efficacité des agents dans leurs usages quotidiens : rédaction, organisation de fichiers, prise de note, gestion collaborative. L’objectif est clair : **apporter de l’IA là où les agents travaillent déjà**, sans changer leurs habitudes, tout en garantissant un cadre souverain et sécurisé.
 
 
 

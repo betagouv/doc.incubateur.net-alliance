@@ -22,7 +22,7 @@
   * [Comment utiliser l'Assistant IA](faire-des-services-ia-au-sein-de-letat/lassistant-ia/comment-utiliser-lassistant-ia.md)
   * [Qu'est-ce que les compagnons ?](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel/quest-ce-que-les-compagnons/README.md)
     * [Compagnons : Checklist entrée en construction](faire-des-services-ia-au-sein-de-letat/lassistant-conversationnel/quest-ce-que-les-compagnons/compagnons-checklist-entree-en-construction.md)
-* [L'IA dans la suite](faire-des-services-ia-au-sein-de-letat/lia-dans-la-suite.md)
+* [L'IA dans la Suite numérique](faire-des-services-ia-au-sein-de-letat/lia-dans-la-suite-numerique.md)
 * [Le panorama des solutions IA dans l'État](faire-des-services-ia-au-sein-de-letat/le-panorama-des-solutions-ia-dans-letat.md)
 * [Open Web UI commu](faire-des-services-ia-au-sein-de-letat/open-web-ui-commu.md)
 
