@@ -76,7 +76,7 @@ ALLiaNCE fait partie du réseau d'incubateurs **beta.gouv**, une communauté plu
 ### La to-do pour 💻 Développeurs / développeuses
 
 * #### Rencontrer le CTO de l'incubateur Luis Arias, disponible sur Tchap
-* #### Te familiariser avec Albert-api et Albert-conversation \[liens vers la documentation à venir]
+* #### Te familiariser avec [Albert-api](../faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md) et l'[Assistant IA](../lassistant-ia/).
 {% endhint %}
 
 
