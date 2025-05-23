@@ -39,4 +39,4 @@ Vous pouvez aussi partager des infos et vos apprentissages en direct via le salo
 
 ### **🎓 Animez des ateliers lors des Rencontres ALLiaNCE**
 
-Venez proposer des ateliers lors des rencontres ALLiaNCE, qui ont lieu tous les deux mois en format forum ouvert. Plus d'infos sur le [**Rituel ALLiaNCE**](rituel-alliance.md)
+Venez proposer des ateliers lors des rencontres ALLiaNCE, qui ont lieu tous les deux mois en format forum ouvert. Plus d'infos sur le [**Rituel ALLiaNCE**](rencontres-alliance.md)

@@ -5,9 +5,7 @@ description: >-
 icon: calendar-star
 ---
 
-# Rituel ALLiaNCE
-
-## Rencontre ALLiaNCE
+# Rencontres ALLiaNCE
 
 **Tous les deux mois**, la communauté de l'incubateur ALLiaNCE se réunit. Il s’agit d’une journée de rencontres et d’échanges en présentiel pour favoriser le partage d’expérience entre les différentes équipes, les différents ministères et les acteurs privés. Entre 60 et 100 membres de la communauté ALLiaNCE participent à cette journée : équipe produit, intrapreneurs et intrapreneuses, développeurs et développeuses, responsables d’incubateurs ministériels, coachs, designers du secteur public ou privé etc.
 

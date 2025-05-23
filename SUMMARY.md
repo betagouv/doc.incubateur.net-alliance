@@ -12,7 +12,7 @@
 ***
 
 * [La communauté](la-communaute/README.md)
-  * [Rituel ALLiaNCE](la-communaute/rituel-alliance.md)
+  * [Rencontres ALLiaNCE](la-communaute/rencontres-alliance.md)
   * [Entraide communautaire](la-communaute/entraide-communautaire.md)
 
 ## Faire des services IA au sein de l'État

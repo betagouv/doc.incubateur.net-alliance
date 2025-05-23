@@ -44,7 +44,7 @@ Les partenaires issus de la société civile, désireux de co-construire autour 
 
 ### 📆 On se retrouve pour les rencontres ALLiaNCE
 
-Participez aux [rencontres ALLiaNCE](rituel-alliance.md) sous format de **Forum Ouvert**, un moment convivial de partage et d’échange pour toute la communauté.\
+Participez aux [rencontres ALLiaNCE](rencontres-alliance.md) sous format de **Forum Ouvert**, un moment convivial de partage et d’échange pour toute la communauté.\
 Dans ce format participatif, chacun peut proposer un sujet, animer un atelier, ou simplement prendre part aux discussions.
 
 {% hint style="info" %}
