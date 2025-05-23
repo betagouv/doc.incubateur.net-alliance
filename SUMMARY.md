@@ -17,6 +17,8 @@
 
 ## Utiliser l'IA au sein de l'État
 
+* [Guide d'installation des LLM](utiliser-lia-au-sein-de-letat/guide-dinstallation-des-llm.md)
+
 ***
 
 * [Utiliser l'IA générative dans l'administration](utiliser-lia-generative-dans-ladministration.md)
