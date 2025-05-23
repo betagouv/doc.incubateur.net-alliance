@@ -17,8 +17,6 @@
 
 ## Utiliser l'IA au sein de l'État
 
-* [Guide d'installation des LLM](utiliser-lia-au-sein-de-letat/guide-dinstallation-des-llm.md)
-
 ***
 
 * [Utiliser l'IA générative dans l'administration](utiliser-lia-generative-dans-ladministration.md)
@@ -27,15 +25,16 @@
   * [Comment utiliser l'Assistant IA](lassistant-ia/comment-utiliser-lassistant-ia.md)
   * [Qu'est-ce que les compagnons ?](lassistant-ia/quest-ce-que-les-compagnons/README.md)
     * [Compagnons : Checklist entrée en construction](lassistant-ia/quest-ce-que-les-compagnons/compagnons-checklist-entree-en-construction.md)
+  * [Open Web UI commu](lassistant-ia/open-web-ui-commu.md)
 
 ## Faire des services IA au sein de l'État
 
 * [Le panorama des solutions IA dans l'État](faire-des-services-ia-au-sein-de-letat/le-panorama-des-solutions-ia-dans-letat.md)
 * [Albert-api, l'infra IA souveraine de l'État](faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md)
-* [Open Web UI commu](faire-des-services-ia-au-sein-de-letat/open-web-ui-commu.md)
 
 ***
 
+* [Guide d'installation des LLM](guide-dinstallation-des-llm.md)
 * [Retours d'expériences](retours-dexperiences/README.md)
   * [Beta-test d'Albert-Api, 5 mois d'expérimentations｜3 avril 2025](retours-dexperiences/beta-test-dalbert-api-5-mois-dexperimentations-3-avril-2025.md)
   * [Retex assistant de réponses virtuel｜ Forum ALLiaNCE du 9 avril 2025](retours-dexperiences/retex-assistant-de-reponses-virtuel-forum-alliance-du-9-avril-2025.md)
