@@ -34,7 +34,7 @@
 
 ***
 
-* [Guide d'installation des LLM](guide-dinstallation-des-llm.md)
+* [Guide d'installation des LLMs](guide-dinstallation-des-llms.md)
 * [Retours d'expériences](retours-dexperiences/README.md)
   * [Beta-test d'Albert-Api, 5 mois d'expérimentations｜3 avril 2025](retours-dexperiences/beta-test-dalbert-api-5-mois-dexperimentations-3-avril-2025.md)
   * [Retex assistant de réponses virtuel｜ Forum ALLiaNCE du 9 avril 2025](retours-dexperiences/retex-assistant-de-reponses-virtuel-forum-alliance-du-9-avril-2025.md)
@@ -44,4 +44,3 @@
 
 * [Écrire sa fiche action](etre-incube-chez-alliance/ecrire-sa-fiche-action.md)
 * [S'embarquer](etre-incube-chez-alliance/sembarquer.md)
-* [Guide d'installation des LLMs](etre-incube-chez-alliance/guide-dinstallation-des-llms.md)
