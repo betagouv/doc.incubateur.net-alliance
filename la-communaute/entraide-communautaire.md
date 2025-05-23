@@ -30,7 +30,7 @@ Il y a plusieurs salons Tchap dans l'espace [**Support/Retex**](https://www.tcha
   * [Extraction](https://tchap.gouv.fr/#/room/!bPGCjqgXjNqDmLRvIm:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.finances.tchap.gouv.fr\&via=agent.dev-durable.tchap.gouv.fr)
   * [Classification](https://tchap.gouv.fr/#/room/!KQcnlkHbFJlhXmZcPy:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr\&via=agent.finances.tchap.gouv.fr\&via=agent.justice.tchap.gouv.fr)
 
-### **📰 Documenter vos actualités**
+### **📰 Documentez vos actualités**
 
 On envoie une **newsletter** à toute la communauté une à deux fois par mois. C'est l'occasion parfaite pour partager les dernières actualités de votre produit ou de votre ministère (rapports IA, nouveautés, etc.).
 
