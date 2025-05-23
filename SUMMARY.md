@@ -44,4 +44,4 @@
 
 * [Écrire sa fiche action](etre-incube-chez-alliance/ecrire-sa-fiche-action.md)
 * [S'embarquer](etre-incube-chez-alliance/sembarquer.md)
-* [Guide d'installation des LLMs, à destination des techniques](etre-incube-chez-alliance/guide-dinstallation-des-llms-a-destination-des-techniques.md)
+* [Guide d'installation des LLMs](etre-incube-chez-alliance/guide-dinstallation-des-llms.md)
