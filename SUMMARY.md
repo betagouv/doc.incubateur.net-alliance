@@ -5,8 +5,8 @@
 ## En apprendre plus sur nous et sur notre culture
 
 * [Nos missions](en-apprendre-plus-sur-nous-et-sur-notre-culture/nos-missions.md)
-* [Nos convictions](en-apprendre-plus-sur-nous-et-sur-notre-culture/nos-convictions/README.md)
-  * [Règles de vie de l'incubateur](en-apprendre-plus-sur-nous-et-sur-notre-culture/nos-convictions/regles-de-vie-de-lincubateur.md)
+* [Nos objectifs](en-apprendre-plus-sur-nous-et-sur-notre-culture/nos-objectifs/README.md)
+  * [Règles de vie de l'incubateur](en-apprendre-plus-sur-nous-et-sur-notre-culture/nos-objectifs/regles-de-vie-de-lincubateur.md)
 * [L'équipe de l'incubateur](en-apprendre-plus-sur-nous-et-sur-notre-culture/lequipe-de-lincubateur.md)
 
 ***
