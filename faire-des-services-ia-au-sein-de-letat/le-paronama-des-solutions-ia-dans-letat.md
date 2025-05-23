@@ -28,7 +28,7 @@ Ce recensement vise à **cartographier les projets d’intelligence artificielle
 **Avant de commencer**, vous pouvez :
 
 * [Consulter les projets déjà recensés](https://grist.numerique.gouv.fr/o/etalab/2BXtzHFoPVB9/Produits-IA-dans-lEtat?utm_id=share-doc)
-* [Rejoindre le canal Tchap pour modifier un projet existant](https://matrix.to/#/!MqmVrWuAPzbaCTeOQh:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)
+* [Rejoindre le canal Tchap pour modifier un projet existant](https://tchap.gouv.fr/#/room/!MqmVrWuAPzbaCTeOQh:agent.dinum.tchap.gouv.fr?via=agent.dinum.tchap.gouv.fr)
 {% endstep %}
 
 {% step %}
