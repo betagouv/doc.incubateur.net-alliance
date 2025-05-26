@@ -23,7 +23,7 @@ Pour ces cas d'usages, il est possible d'utiliser des solutions commerciales dis
 Voici quelques exemples :
 
 * **Synthèse automatique de documents publics** (ex : rapports, délibérations, comptes rendus).
-* **Génération ou relecture de brouillons de textes** (notes, mails, FAQ), quand cela ne nécessite pas de dévoiler des informations confidentielles
+* **Génération ou relecture de brouillons de textes** (notes, FAQ), quand cela ne nécessite pas de dévoiler des informations confidentielles
 * **Aide à la production de code** pour outiller les développeurs publics.
 * **FAQ enrichies par IA** pour des guides à destination des agents ou intranets ou espaces agents.
 * **Synthèse ou quiz de formation** générés automatiquement.
