@@ -9,12 +9,11 @@ L'équipe Albert conversation accompagne les administrations  pour spécialiser 
 Cette démarche, menée en co-construction avec les administrations, vise à créer des agents IA spécialisés, appelés « compagnons », capables par exemple d’interroger et d’analyser une base documentaire définie par l’administration.\
 
 
-### Types de compagnons&#x20;
+### Les compagnons sont des agents IA spécialisés sur des tâches, des bases documentaires ou des process : &#x20;
 
-* **Compagnons "génériques" :** ces agents IA ou fonctionnalités sont accessibles à tous les utilisateurs sans restriction. Ils permettent d’appliquer des règles communes, comme la reformulation en langage clair, la consultation ou l’analyse de documents, ou encore l’interrogation de bases documentaires publiques et généralistes. Ces compagnons sont intégrés à la feuille de route d’Albert conversation.
-* **Compagnons "thématiques" :** ces agents IA sont conçus pour répondre à des questions spécifiques sur une documentation particulière publique et/ou privée, l’accès étant conditionné par les droits accordés par l’administration. Par exemple, ils peuvent donner accès à un référentiel interne d’organisation administrative. Leur conception se fait en partenariat étroit avec les équipes de l’administration propriétaire des données.
-* **Compagnons "métier" :** développés en collaboration avec les administrations, ces agents IA sont conçus pour répondre à des problématiques métier précises. Leur financement est assuré par les administrations concernées.
-* **Des compagnons "technologiques" :** ces modules sont destinés aux utilisateurs experts. Ils permettent de créer des moteurs personnalisés, partageables avec d’autres utilisateurs, et intègrent des fonctionnalités avancées telles que la lecture d’images, le RAG (Retrieval-Augmented Generation) ou l’automatisation de workflows d’analyse documentaire. Ces compagnons font également partie de la feuille de route d’Albert conversation.
+* Des agents IA ou fonctionnalités **accessibles à tous les utilisateurs** sans restriction. Ils permettent d’**appliquer des règles communes**, comme la reformulation en langage clair, la consultation ou l’analyse de documents, ou encore l’interrogation de bases documentaires publiques et généralistes.&#x20;
+* Des agents IA conçus pour **répondre à des questions spécifiques sur une documentation particulière publique et/ou privée**, l’accès étant conditionné par les droits accordés par l’administration. Par exemple, ils peuvent donner accès à un référentiel interne d’organisation administrative. Leur conception se fait en partenariat étroit avec les équipes de l’administration propriétaire des données.
+* Des compagnons "métier" développés en collaboration avec les administrations, ces agents IA sont **conçus pour répondre à des problématiques métier précises**. Leur financement est assuré par les administrations concernées.
 
 
 
