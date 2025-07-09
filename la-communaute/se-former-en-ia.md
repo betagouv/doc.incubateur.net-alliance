@@ -5,8 +5,6 @@ icon: head-side-brain
 
 # Se former en IA
 
-## 🕵️ État des lieux des formations IA disponibles pour les agents publics&#x20;
-
 L’intelligence artificielle transforme les métiers et les services publics. Pour accompagner cette évolution, un large écosystème de formations est mis à disposition des agents de l’État, pour leur permettre de se familiariser avec l’IA, d’en comprendre les usages et de se former selon leurs besoins.
 
 De nombreuses formations, proposées par des acteurs publics, sont aujourd’hui disponibles pour permettre aux agents de l’État de se former selon leurs besoins et leurs niveaux. En lien avec ses partenaires, ALLiaNCE contribue à recenser et à mettre en visibilité ces ressources, afin de faciliter l’accès des agents publics aux formations existantes et d’encourager la diffusion d’une culture partagée de l’IA au sein des administrations.&#x20;
