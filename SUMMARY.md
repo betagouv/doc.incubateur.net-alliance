@@ -14,6 +14,7 @@
 * [La communauté](la-communaute/README.md)
   * [Rencontres ALLiaNCE](la-communaute/rencontres-alliance.md)
   * [Entraide communautaire](la-communaute/entraide-communautaire.md)
+  * [Se former en IA](la-communaute/se-former-en-ia.md)
 
 ## Utiliser l'IA au sein de l'État
 
