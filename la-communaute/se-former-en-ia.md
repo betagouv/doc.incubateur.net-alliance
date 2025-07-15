@@ -38,4 +38,6 @@ Pour ceux qui souhaitent développer une culture technique autour de l’IA, not
 
 * [FIDLE (CNRS)](https://www.youtube.com/@CNRS-FIDLE) : Formation Introduction au Deep Learning via une chaîne YouTube (126 vidéos et 3 parcours thématiques)
 * [Comment créer des prompts efficaces](https://www.francenum.gouv.fr/guides-et-conseils/pilotage-de-lentreprise/gestion-traitement-et-analyse-des-donnees/comment-creer) : guide du débutant (France Num)
+* [Multi-agents - Faire du tooling "avec les mains"](https://medium.com/@camille_andre/multi-agents-faire-du-tooling-avec-les-mains-f004a4550c55) : L'article décrit une architecture de multi-agents pour améliorer les LLM (Etalab, 2024)
+* [Enhancing Language Model Performance: Insights into Retrieval-Augmented Generation and Chunking Techniques](https://medium.com/@camille_andre/enhancing-language-model-performance-insights-into-rag-and-chunking-augmentation-techniques-897ba15a04d6) : comment booster un RAG avec un meilleur découpage, des embeddings adaptés et du reranking (Etalab, 2024)
 
