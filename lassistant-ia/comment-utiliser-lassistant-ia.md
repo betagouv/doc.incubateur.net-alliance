@@ -2,23 +2,8 @@
 description: >-
   Nous détaillons ici quelques définitions et les bonnes pratiques à respecter
   pour utiliser l'Assistant conversationnel de l'État.
-hidden: true
 icon: message-question
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Comment utiliser l'Assistant IA

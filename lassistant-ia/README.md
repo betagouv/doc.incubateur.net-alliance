@@ -2,7 +2,6 @@
 description: >-
   L'assistant IA conversationnel souverain pour les agents de la fonction
   publique d'État.
-hidden: true
 icon: message-smile
 ---
 
