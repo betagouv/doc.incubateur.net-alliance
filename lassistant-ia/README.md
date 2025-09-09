@@ -7,25 +7,25 @@ icon: message-smile
 
 # L'Assistant IA
 
+{% hint style="success" %}
 L'Assistant IA conversationnel est conçu pour les agents de la fonction publique d'État, leur offrant un outil **souverain** et **sécurisé** pour **accélérer leurs tâches quotidiennes** grâce à l'intelligence artificielle.
+{% endhint %}
 
+Vous pouvez accéder au produit en vous rendant sur le [site de l'Assistant](https://albert.numerique.gouv.fr).
 
-
-Vous pouvez accéder au produit en vous rendant sur le [site de l'Assistant](https://albert.numerique.gouv.fr)
-
-Vous ne savez pas si vous avez le droit d'utiliser l'Assistant IA? RDV sur la page modalités d'accès!
+**Vous ne savez pas si vous avez le droit d'utiliser l'Assistant IA ?** Rendez-vous sur la page modalités d'accès :
 
 {% content-ref url="activation-du-compte-et-modalites-dacces.md" %}
 [activation-du-compte-et-modalites-dacces.md](activation-du-compte-et-modalites-dacces.md)
 {% endcontent-ref %}
 
-Ensuite, direction le canal Tchap pour être au courant des nouveautés et nous communiquer tous vos retours:
+Ensuite, direction le canal Tchap pour être au courant des nouveautés et nous communiquer vos retours :
 
 {% content-ref url="support-et-retours-utilisateurs.md" %}
 [support-et-retours-utilisateurs.md](support-et-retours-utilisateurs.md)
 {% endcontent-ref %}
 
-Vous avez accès à l'Assistant IA mais vous n'êtes pas sûr de comment l'utiliser ?&#x20;
+**Vous avez accès à l'Assistant IA mais vous n'êtes pas sûr de comment l'utiliser ?**&#x20;
 
 {% content-ref url="comment-utiliser-lassistant-ia.md" %}
 [comment-utiliser-lassistant-ia.md](comment-utiliser-lassistant-ia.md)
