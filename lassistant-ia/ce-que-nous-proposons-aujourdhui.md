@@ -8,10 +8,8 @@ coverY: 0
 {% hint style="info" %}
 ### L'assistant IA et la marque Albert
 
-La DINUM ne développe pas de modèles de langages —les fameux LLM. Aujourd'hui, le projet Albert regroupe l'Assistant IA (documenté dans ce guide) et Albert API, qui met à disposition des modèles open-sources aux administrations hébergés sur des infrastructures homologuées et sécurisées.&#x20;
+La DINUM ne développe pas de modèles de langages type _large langage model_ (LLM). Aujourd'hui, le projet Albert regroupe l'[Assistant IA](./) et [Albert API](../faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md), qui met à disposition des modèles open-sources aux administrations hébergés sur des infrastructures homologuées et sécurisées.&#x20;
 {% endhint %}
-
-
 
 ### L'interface
 

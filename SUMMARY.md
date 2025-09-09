@@ -25,7 +25,7 @@
 * [L'Assistant IA](lassistant-ia/README.md)
   * [Ce que nous proposons aujourd'hui](lassistant-ia/ce-que-nous-proposons-aujourdhui.md)
   * [Comment utiliser l'Assistant IA](lassistant-ia/comment-utiliser-lassistant-ia.md)
-  * [Notre Feuille de route](lassistant-ia/notre-feuille-de-route.md)
+  * [Notre feuille de route](lassistant-ia/notre-feuille-de-route.md)
   * [Modalités d'accès](lassistant-ia/modalites-dacces.md)
   * [Support et retours utilisateurs](lassistant-ia/support-et-retours-utilisateurs.md)
   * [Qu'est-ce que les compagnons ?](lassistant-ia/quest-ce-que-les-compagnons/README.md)

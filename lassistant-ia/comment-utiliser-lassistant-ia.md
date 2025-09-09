@@ -10,8 +10,6 @@ coverY: 0
 
 Spécialement conçu pour les agents de la fonction publique d'État, &#x6C;**'**[**Assistant conversationnel**](https://albert.numerique.gouv.fr/) **comprend vos questions formulées en langage naturel, et vous assiste dans vos tâches du quotidien.**&#x20;
 
-
-
 ### Fonctionnalités
 
 Voici ce que permet aujourd’hui l’Assistant IA :
@@ -57,11 +55,8 @@ Cet onglet n’apparaît que si vous avez accès à au moins une des fonctionnal
 
 > Plus de documentation sur ces fonctionnalités directement sur [docs.openwebui.com](https://docs.openwebui.com)
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Afin de bien comprendre comment utiliser un assistant conversationnel IA et en quoi il peut vous être utile, il est important de comprendre ce qu’est (et ce que n’est pas) une telle interface.**
-
-\
-C’est pourquoi nous vous proposons, dans la suite, une brève explication de ces concepts.
 {% endhint %}
 
 <details>
