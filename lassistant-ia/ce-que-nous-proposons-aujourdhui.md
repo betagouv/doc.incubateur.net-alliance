@@ -8,12 +8,12 @@ coverY: 0
 {% hint style="info" %}
 ### L'assistant IA et la marque Albert
 
-La DINUM ne développe pas de modèles de langages type _large langage model_ (LLM). Aujourd'hui, le projet Albert regroupe l'[Assistant IA](./) et [Albert API](../faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md), qui met à disposition des modèles open-sources aux administrations hébergés sur des infrastructures homologuées et sécurisées.&#x20;
+La DINUM ne développe pas de modèles de langages type _large langage model_ (LLM). Aujourd'hui, le projet Albert regroupe l'[Assistant IA](./) et [Albert API](../faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md), qui met à disposition des modèles open-sources aux administrations, hébergés sur des infrastructures homologuées et sécurisées.&#x20;
 {% endhint %}
 
 ### L'interface
 
-La DINUM propose une instance d'OpenWebUI, proConnectée et adaptée au DSFR. Les modèles avec lesquels on peut échanger à travers cette interface sont servis par Albert API.\
+La DINUM propose aujourd'hui une instance basée sur une offre open-source (OpenWebUI), proConnectée et adaptée au système design de l'État (DSFR). Les modèles de langue avec lesquels on peut échanger à travers cette interface sont servis par [albert-api-linfra-ia-souveraine-de-letat.md](../faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md "mention"). Une nouvelle instance de l'Assistant IA sera proposée prochainement afin de mieux s'intégrer dans la Suite numérique et d'être plus proche des outils de travail quotidien des agents. \
 
 
 **Découvrez comment l'utiliser sur la page suivante:**
