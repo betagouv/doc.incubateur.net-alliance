@@ -15,8 +15,8 @@ Vous pouvez accéder au produit en vous rendant sur le [site de l'Assistant](htt
 
 Vous ne savez pas si vous avez le droit d'utiliser l'Assistant IA? RDV sur la page modalités d'accès!
 
-{% content-ref url="modalites-dacces-et-regles-dusage.md" %}
-[modalites-dacces-et-regles-dusage.md](modalites-dacces-et-regles-dusage.md)
+{% content-ref url="modalites-dacces.md" %}
+[modalites-dacces.md](modalites-dacces.md)
 {% endcontent-ref %}
 
 Ensuite, direction le canal Tchap pour être au courant des nouveautés et nous communiquer tous vos retours:
