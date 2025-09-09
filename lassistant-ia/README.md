@@ -19,13 +19,13 @@ Vous pouvez accéder au produit en vous rendant sur le [site de l'Assistant](htt
 [activation-du-compte-et-modalites-dacces.md](activation-du-compte-et-modalites-dacces.md)
 {% endcontent-ref %}
 
-Ensuite, direction le canal Tchap pour être au courant des nouveautés et nous communiquer vos retours :
+**Vous voulez participer à l'évolution du produit, actuellement en beta  ?** Direction le canal Tchap pour être au courant des nouveautés et nous faire des retours sur le produit ou votre expérience :
 
 {% content-ref url="support-et-retours-utilisateurs.md" %}
 [support-et-retours-utilisateurs.md](support-et-retours-utilisateurs.md)
 {% endcontent-ref %}
 
-**Vous avez accès à l'Assistant IA mais vous n'êtes pas sûr de comment l'utiliser ?**&#x20;
+**Vous avez accès à l'Assistant IA mais vous n'êtes pas sûr de comment l'utiliser ?** Vous trouverez des instructions et un guide d'usage sur cette page :
 
 {% content-ref url="comment-utiliser-lassistant-ia.md" %}
 [comment-utiliser-lassistant-ia.md](comment-utiliser-lassistant-ia.md)
