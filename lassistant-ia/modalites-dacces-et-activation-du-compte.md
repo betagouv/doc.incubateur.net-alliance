@@ -32,8 +32,6 @@ Vous pouvez avoir accès à l'Assistant IA individuellement ou comme partenaire 
 {% endcolumn %}
 {% endcolumns %}
 
-
-
 ### **📥 Activation du compte**&#x20;
 
 {% stepper %}
@@ -46,7 +44,7 @@ Rendez-vous à l'adresse [albert.numerique.gouv.fr](http://albert.numerique.gouv
 {% step %}
 ProConnectez-vous en cliquant sur le bouton.&#x20;
 
-
+<div align="left"><figure><img src="../.gitbook/assets/Capture d’écran 2025-09-10 à 15.33.14.png" alt="" width="106"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -58,7 +56,7 @@ Envoyez un message sur ce canal Tchap à l'équipe pour vous signaler
 {% step %}
 Nous validerons votre demande manuellement.
 
-&#x20;
+&#x20;En général, l'équipe valide dans la journée votre demande !
 {% endstep %}
 
 {% step %}
