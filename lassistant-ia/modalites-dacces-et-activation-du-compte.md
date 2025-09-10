@@ -44,7 +44,7 @@ Rendez-vous à l'adresse [albert.numerique.gouv.fr](http://albert.numerique.gouv
 {% endstep %}
 
 {% step %}
-ProConnectez-vous en cliquant sur le bouton pro-connect.&#x20;
+ProConnectez-vous en cliquant sur le bouton.&#x20;
 
 
 {% endstep %}
