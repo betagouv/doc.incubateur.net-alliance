@@ -6,7 +6,7 @@ icon: user-check
 
 ### Modalité d'accès et règles d'usages&#x20;
 
-Vous pouvez avoir accès à l'Assistant IA individuellement ou comme partenaire institutionnel :&#x20;
+Vous pouvez avoir accès à l'Assistant IA **individuellement** ou comme **partenaire institutionnel** :&#x20;
 
 
 
@@ -31,6 +31,8 @@ Vous pouvez avoir accès à l'Assistant IA individuellement ou comme partenaire 
 * Un hébergement des vecteurs est proposé dans Albert API, ainsi que la possibilité de créer des pipelines (fonctionnalité qui permet de personnaliser des cas d’usage, des agents, des données), cependant ces pipelines métiers doivent être développées par l’administration partenaire. Cela implique de disposer de ressources techniques (ingénieurs IA et data).&#x20;
 {% endcolumn %}
 {% endcolumns %}
+
+
 
 
 
@@ -64,7 +66,7 @@ Vous pouvez avoir accès à l'Assistant IA individuellement ou comme partenaire 
 {% step %}
 **Vous pouvez tester et converser** avec l'Assistant 💬
 
-
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-10 à 15.44.02 (2).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
