@@ -1,7 +1,7 @@
 ---
 description: >-
   Nous détaillons ici quelques définitions et les bonnes pratiques à respecter
-  pour utiliser l'Assistant conversationnel de l'État.
+  pour utiliser l'assistant conversationnel de l'État.
 icon: message-question
 coverY: 0
 ---
