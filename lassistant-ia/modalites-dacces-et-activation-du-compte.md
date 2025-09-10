@@ -27,7 +27,7 @@ Vous pouvez avoir accès à l'Assistant IA individuellement ou comme partenaire 
 🏛️ **Accès partenaire** \
 
 
-* **Accord avec l’administration concernée sur le financement du coût de l'inférence et sur l'hébergement des données**.
+* Accord avec l’administration concernée sur le financement du coût de l'inférence et sur l'hébergement des données.
 * Un hébergement des vecteurs est proposé dans Albert API, ainsi que la possibilité de créer des pipelines (fonctionnalité qui permet de personnaliser des cas d’usage, des agents, des données), cependant ces pipelines métiers doivent être développées par l’administration partenaire. Cela implique de disposer de ressources techniques (ingénieurs IA et data).&#x20;
 {% endcolumn %}
 {% endcolumns %}
