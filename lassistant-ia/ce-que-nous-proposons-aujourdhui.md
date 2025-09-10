@@ -32,9 +32,11 @@ La DINUM propose aujourd'hui une instance basée sur une offre open-source (Open
 
 Des fonctionnalités destinées aux profils techniques : création de fonctions Python, configuration de modèles, ajout de collections documentaires, etc.
 
+{% hint style="info" %}
+Cette interface est puissante mais complexe : elle s’adresse avant tout aux utilisateurs expérimentés.
+{% endhint %}
 
 
-⚠️ Cette interface est puissante mais complexe : elle s’adresse avant tout aux utilisateurs expérimentés.
 {% endcolumn %}
 
 {% column width="50%" %}
@@ -43,8 +45,6 @@ Des fonctionnalités destinées aux profils techniques : création de fonctions 
 
 
 Une **interface simplifiée** est en cours de création : pensée pour les agents non spécialistes de l'IA et pour une interopérabilité avec les applications métier des agents.&#x20;
-
-
 
 Elle sera conçue pour évoluer rapidement grâce aux retours utilisateurs.\
 
