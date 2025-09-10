@@ -38,21 +38,21 @@ Vous pouvez avoir accès à l'Assistant IA individuellement ou comme partenaire 
 
 {% stepper %}
 {% step %}
-Rendez-vous sur [albert.numerique.gouv.fr](http://albert.numerique.gouv.fr/).
+Rendez-vous à l'adresse [albert.numerique.gouv.fr](http://albert.numerique.gouv.fr/).
 
 
 {% endstep %}
 
 {% step %}
-ProConnectez-vous
+ProConnectez-vous en cliquant sur le bouton pro-connect.&#x20;
 
 
 {% endstep %}
 
 {% step %}
-Envoyez un message sur ce canal Tchap : [![](https://matrix.agent.dinum.tchap.gouv.fr/_matrix/media/v3/thumbnail/matrix.agent.dinum.tchap.gouv.fr/0ec0d5ddd5bdca1545df9b1e83865519b5f7109f1829450108316418048?width=24\&height=24\&method=crop)L'Assistant IA | Support et retours](https://tchap.gouv.fr/#/room/!gpLYRJyIwdkcHBGYeC:agent.dinum.tchap.gouv.fr).
+Envoyez un message sur ce canal Tchap à l'équipe pour vous signaler
 
-
+&#x20; [![](https://matrix.agent.dinum.tchap.gouv.fr/_matrix/media/v3/thumbnail/matrix.agent.dinum.tchap.gouv.fr/0ec0d5ddd5bdca1545df9b1e83865519b5f7109f1829450108316418048?width=24\&height=24\&method=crop)L'Assistant IA | Support et retours](https://tchap.gouv.fr/#/room/!gpLYRJyIwdkcHBGYeC:agent.dinum.tchap.gouv.fr).
 {% endstep %}
 
 {% step %}
@@ -62,7 +62,7 @@ Nous validerons votre demande manuellement.
 {% endstep %}
 
 {% step %}
-### À vous de jouer ! 💬
+Vous pouvez tester et converser avec l'Assistant 💬
 
 
 {% endstep %}
