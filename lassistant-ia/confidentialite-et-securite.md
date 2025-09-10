@@ -16,7 +16,7 @@ Cependant, la plateforme Assistant IA elle-même n'est pas encore homologuée.&#
 
 * Les conversations sont anonymisées et accessibles uniquement aux membres de l'équipe de l'Assistant IA pour améliorer l'expérience utilisateur.
 * L’anonymisation des conversations signifie que vos conversations ne sont pas enregistrées avec votre nom, prénom, mail ou identité. Toutefois, nous ne pouvons pas encore anonymiser les informations personnelles que vous enverriez par chat au modèle.
-* Les documents uploadés dans l'interface sont supprimés régulièrement.&#x20;
+* Les documents téléchargés dans l'interface sont supprimés régulièrement.&#x20;
 
 
 

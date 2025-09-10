@@ -26,7 +26,7 @@
   * [Ce que nous proposons aujourd'hui](lassistant-ia/ce-que-nous-proposons-aujourdhui.md)
   * [Comment utiliser l'Assistant IA](lassistant-ia/comment-utiliser-lassistant-ia.md)
   * [Notre feuille de route](lassistant-ia/notre-feuille-de-route.md)
-  * [Activation du compte et modalités d'accès](lassistant-ia/activation-du-compte-et-modalites-dacces.md)
+  * [Modalités d'accès et activation du compte](lassistant-ia/modalites-dacces-et-activation-du-compte.md)
   * [Confidentialité et sécurité](lassistant-ia/confidentialite-et-securite.md)
   * [Support et retours utilisateurs](lassistant-ia/support-et-retours-utilisateurs.md)
   * [Qu'est-ce que les compagnons ?](lassistant-ia/quest-ce-que-les-compagnons/README.md)

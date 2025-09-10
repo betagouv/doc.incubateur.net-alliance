@@ -15,8 +15,8 @@ Vous pouvez accéder au produit en vous rendant sur le [site de l'Assistant](htt
 
 **Vous ne savez pas si vous avez le droit d'utiliser l'Assistant IA ?** Rendez-vous sur la page modalités d'accès :
 
-{% content-ref url="activation-du-compte-et-modalites-dacces.md" %}
-[activation-du-compte-et-modalites-dacces.md](activation-du-compte-et-modalites-dacces.md)
+{% content-ref url="modalites-dacces-et-activation-du-compte.md" %}
+[modalites-dacces-et-activation-du-compte.md](modalites-dacces-et-activation-du-compte.md)
 {% endcontent-ref %}
 
 **Vous voulez participer à l'évolution du produit, actuellement en beta  ?** Direction le canal Tchap pour être au courant des nouveautés et nous faire des retours sur le produit ou votre expérience :
