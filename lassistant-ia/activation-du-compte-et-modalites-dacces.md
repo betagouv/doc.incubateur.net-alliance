@@ -16,7 +16,7 @@ Vous pouvez avoir accès à l'Assistant IA individuellement ou comme partenaire 
 
 
 * Gratuit sur demande pour tous les agents publics ;
-* L'agent est intégralement responsable de son utilisation de l'outil et engage sa propre responsabilité dès lors qu'il utilise du contenu généré par l'Assistant IA dans le cadre de son travail. C'est encore un produit expérimental ;
+* **L'agent est intégralement responsable de son utilisation de l'outil et engage sa propre responsabilité** dès lors qu'il utilise du contenu généré par l'Assistant IA dans le cadre de son travail. C'est encore un produit expérimental ;
 * L'accès au service pour les agents hors DINUM nécessite une validation manuelle. En cas de surcharge de la plateforme, l'équipe se réserve la possibilité de retarder la création d'un compte ;
 * L'usage peut être limité en cas de surcharge (coûts liés à l’usage des LLMs) ;
 * Pas de garantie de disponibilité ou d’uptime ;
