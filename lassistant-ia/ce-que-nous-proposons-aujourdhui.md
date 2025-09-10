@@ -13,7 +13,7 @@ La DINUM ne développe pas de modèles de langage type _large langage model_ (LL
 
 ### L'interface
 
-La DINUM propose aujourd'hui une instance basée sur une offre open-source (OpenWebUI), proConnectée et adaptée au système design de l'État (DSFR). Les modèles de langue avec lesquels on peut échanger à travers cette interface sont servis par [albert-api-linfra-ia-souveraine-de-letat.md](../faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md "mention"). Une nouvelle instance de l'Assistant IA sera proposée prochainement afin de mieux s'intégrer dans la Suite numérique et d'être plus proche des outils de travail quotidien des agents. \
+La DINUM propose aujourd'hui une instance basée sur une offre open-source (OpenWebUI), proConnectée et adaptée au système design de l'État (DSFR). Les modèles de langue avec lesquels on peut échanger à travers cette interface sont servis par [albert-api-linfra-ia-souveraine-de-letat.md](../faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md "mention"). Une nouvelle instance de l'Assistant IA sera proposée prochainement afin de mieux s'intégrer dans la Suite numérique et d'être plus proche des outils de travail quotidiens des agents. \
 
 
 **Découvrez comment l'utiliser sur la page suivante:**
