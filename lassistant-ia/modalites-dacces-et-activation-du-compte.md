@@ -32,35 +32,37 @@ Vous pouvez avoir accès à l'Assistant IA individuellement ou comme partenaire 
 {% endcolumn %}
 {% endcolumns %}
 
+
+
 ### **📥 Activation du compte**&#x20;
 
 {% stepper %}
 {% step %}
-Rendez-vous à l'adresse [albert.numerique.gouv.fr](http://albert.numerique.gouv.fr/).
+**Rendez-vous à l'adresse** [albert.numerique.gouv.fr](http://albert.numerique.gouv.fr/).
 
 
 {% endstep %}
 
 {% step %}
-ProConnectez-vous en cliquant sur le bouton.&#x20;
+**ProConnectez-vous** en cliquant sur le bouton.&#x20;
 
 <div align="left"><figure><img src="../.gitbook/assets/Capture d’écran 2025-09-10 à 15.33.14.png" alt="" width="106"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-Envoyez un message sur ce canal Tchap à l'équipe pour vous signaler
+**Envoyez un message sur ce canal Tchap** à l'équipe pour vous signaler
 
-&#x20; [![](https://matrix.agent.dinum.tchap.gouv.fr/_matrix/media/v3/thumbnail/matrix.agent.dinum.tchap.gouv.fr/0ec0d5ddd5bdca1545df9b1e83865519b5f7109f1829450108316418048?width=24\&height=24\&method=crop)L'Assistant IA | Support et retours](https://tchap.gouv.fr/#/room/!gpLYRJyIwdkcHBGYeC:agent.dinum.tchap.gouv.fr).
+&#x20; [L'Assistant IA | Support et retours](https://tchap.gouv.fr/#/room/!gpLYRJyIwdkcHBGYeC:agent.dinum.tchap.gouv.fr).
 {% endstep %}
 
 {% step %}
-Nous validerons votre demande manuellement.
+**Nous validerons votre demande manuellement.**
 
-&#x20;En général, l'équipe valide dans la journée votre demande !
+&#x20;_En général, l'équipe valide dans la journée votre demande et vous le confirme avec un_ :white\_check\_mark: _sur votre message._&#x20;
 {% endstep %}
 
 {% step %}
-Vous pouvez tester et converser avec l'Assistant 💬
+**Vous pouvez tester et converser** avec l'Assistant 💬
 
 
 {% endstep %}
