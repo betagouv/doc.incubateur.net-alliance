@@ -24,4 +24,29 @@ La DINUM propose aujourd'hui une instance basée sur une offre open-source (Open
 
 ### La vision
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p><strong>L'instance OpenWebUI</strong></p><p></p><p>Des fonctionnalités destinées aux profils techniques : création de fonctions Python, configuration de modèles, ajout de collections documentaires, etc.</p><p></p><p>⚠️ Cette interface est puissante mais complexe : elle s’adresse avant tout aux utilisateurs expérimentés.</p></td><td><a href="../.gitbook/assets/Capture d’écran 2025-05-19 à 18.30.43.png">Capture d’écran 2025-05-19 à 18.30.43.png</a></td></tr><tr><td><p><strong>Prochainement...</strong></p><p></p><p>Une <strong>interface simplifiée</strong> est en cours de création : pensée pour les agents non spécialistes de l'IA et pour une interopérabilité avec les applications métier des agents. </p><p></p><p>Elle sera conçue pour évoluer rapidement grâce aux retours utilisateurs.<br></p></td><td><a href="../.gitbook/assets/test.png">test.png</a></td></tr></tbody></table>
+{% columns %}
+{% column width="50%" %}
+**L'instance OpenWebUI**
+
+
+
+Des fonctionnalités destinées aux profils techniques : création de fonctions Python, configuration de modèles, ajout de collections documentaires, etc.
+
+
+
+⚠️ Cette interface est puissante mais complexe : elle s’adresse avant tout aux utilisateurs expérimentés.
+{% endcolumn %}
+
+{% column width="50%" %}
+**Prochainement...**
+
+
+
+Une **interface simplifiée** est en cours de création : pensée pour les agents non spécialistes de l'IA et pour une interopérabilité avec les applications métier des agents.&#x20;
+
+
+
+Elle sera conçue pour évoluer rapidement grâce aux retours utilisateurs.\
+
+{% endcolumn %}
+{% endcolumns %}
