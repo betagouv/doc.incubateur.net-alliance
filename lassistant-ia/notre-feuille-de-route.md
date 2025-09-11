@@ -6,7 +6,7 @@ icon: file-lines
 # Notre feuille de route
 
 {% hint style="success" %}
-**Nos avançons par itérations**, sur la base de vos retours. Pour participer à la co-construction de l'Assistant IA : [support-et-retours-utilisateurs.md](support-et-retours-utilisateurs.md "mention")
+**Nos avançons par itérations**, **sur la base de vos retours. Pour participer à la co-construction de l'Assistant IA** : [support-et-retours-utilisateurs.md](support-et-retours-utilisateurs.md "mention")
 {% endhint %}
 
 **Les prochaines étapes** \
@@ -15,65 +15,65 @@ icon: file-lines
 
 {% stepper %}
 {% step %}
-**Mai – juin 2025**
+#### **Mai – juin 2025**
 
-Version alpha en test interne à la DINUM
+_Version alpha en test interne à la DINUM_
 
-Contractualisation avec Mistral AI
-
-
-{% endstep %}
-
-{% step %}
-**Été 2025**
-
-Passage à une version bêta-fermée avec jusqu'à 500 premiers utilisateurs publics ([lien de la beta](https://albert.numerique.gouv.fr/))
-
-Développement des premières briques génériques de compagnons IA
-
-Lancement des premiers développements collaboratifs avec des ministères contributeurs
-
-Travaux techniques avec Mistral AI
+_Contractualisation avec Mistral AI_
 
 
 {% endstep %}
 
 {% step %}
-**Octobre 2025**
+#### **Été 2025**
 
-Lancement officiel le 22 octobre
+_Passage à une version bêta-fermée avec jusqu'à 500 premiers utilisateurs publics (_[_lien de la beta_](https://albert.numerique.gouv.fr/)_)_
 
-Déploiement auprès des premières administrations volontaires
+_Développement des premières briques génériques de compagnons IA_
 
-Lancement d'une nouvelle version de l'interface (OpenWebUI => version intégrée à la Suite numérique)
+_Lancement des premiers développements collaboratifs avec des ministères contributeurs_
 
-
-{% endstep %}
-
-{% step %}
-**Fin 2025**
-
-Début des travaux d’homologation de sécurité de l'Assistant IA
+_Travaux techniques avec Mistral AI_
 
 
 {% endstep %}
 
 {% step %}
-**T1 2026**
+#### **Octobre 2025**
 
-Homologation de sécurité Assistant IA
+_Lancement officiel le 22 octobre_
 
-Déploiement progressif aux administrations volontaires
+_Déploiement auprès des premières administrations volontaires_
+
+_Lancement d'une nouvelle version de l'interface (OpenWebUI => version intégrée à la Suite numérique)_
 
 
 {% endstep %}
 
 {% step %}
-**T2 2026**
+#### **Fin 2025**
 
-Bilan de l'expérimentation Mistral AI
+_Début des travaux d’homologation de sécurité de l'Assistant IA_
 
-Mise en place d'une capacité de calcul interne pour la poursuite éventuelle du partenariat
+
+{% endstep %}
+
+{% step %}
+#### **T1 2026**
+
+_Homologation de sécurité Assistant IA_
+
+_Déploiement progressif aux administrations volontaires_
+
+
+{% endstep %}
+
+{% step %}
+#### **T2 2026**
+
+_Bilan de l'expérimentation Mistral AI_
+
+_Mise en place d'une capacité de calcul interne pour la poursuite éventuelle du partenariat_
 {% endstep %}
 {% endstepper %}
 
