@@ -6,9 +6,9 @@ icon: shield-halved
 
 ### Hébergement nuage et homologation&#x20;
 
-Les modèles conversationnels avec lesquels on peut échanger sur l'interface de l'Assistant IA sont servis par Albert API, une infrastructure mutualisée conçue comme socle technique pour des services d’IA générative dans l’administration. Elle est hébergée dans un environnement SecNumCloud, et homologuée pour des usages sur des données non sensibles.&#x20;
+Les modèles conversationnels avec lesquels on peut échanger sur l'interface de l'Assistant IA sont servis par [Albert API](../faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md), une infrastructure mutualisée conçue comme socle technique pour des services d’IA générative dans l’administration. Elle est hébergée dans [un environnement SecNumCloud](https://cyber.gouv.fr/secnumcloud-pour-les-fournisseurs-de-services-cloud), et homologuée pour des usages avec des données non sensibles.&#x20;
 
-La plateforme l'Assistant IA, qui est la partie interface, est hébergée par OPI (Opérateur de produits interministériels) sur un serveur OVH SecNumcloud.&#x20;
+La plateforme Assistant IA, qui est la partie interface, est hébergée par OPI (Opérateur de produits interministériels) sur un serveur OVH SecNumcloud.&#x20;
 
 Cependant, la plateforme Assistant IA elle-même n'est pas encore homologuée.&#x20;
 
