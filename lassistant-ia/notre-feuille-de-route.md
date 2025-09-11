@@ -17,9 +17,9 @@ icon: file-lines
 {% step %}
 #### **Mai – juin 2025**
 
-_Version alpha en test interne à la DINUM_
+Version alpha en test interne à la DINUM
 
-_Contractualisation avec Mistral AI_
+Contractualisation avec Mistral AI
 
 
 {% endstep %}
@@ -27,13 +27,13 @@ _Contractualisation avec Mistral AI_
 {% step %}
 #### **Été 2025**
 
-_Passage à une version bêta-fermée avec jusqu'à 500 premiers utilisateurs publics (_[_lien de la beta_](https://albert.numerique.gouv.fr/)_)_
+Passage à une version bêta-fermée avec jusqu'à 500 premiers utilisateurs publics ([lien de la beta](https://albert.numerique.gouv.fr/))
 
-_Développement des premières briques génériques de compagnons IA_
+Développement des premières briques génériques de compagnons IA
 
-_Lancement des premiers développements collaboratifs avec des ministères contributeurs_
+Lancement des premiers développements collaboratifs avec des ministères contributeurs
 
-_Travaux techniques avec Mistral AI_
+Travaux techniques avec Mistral AI
 
 
 {% endstep %}
@@ -41,11 +41,11 @@ _Travaux techniques avec Mistral AI_
 {% step %}
 #### **Octobre 2025**
 
-_Lancement officiel le 22 octobre_
+Lancement officiel le 22 octobre
 
-_Déploiement auprès des premières administrations volontaires_
+Déploiement auprès des premières administrations volontaires
 
-_Lancement d'une nouvelle version de l'interface (OpenWebUI => version intégrée à la Suite numérique)_
+Lancement d'une nouvelle version de l'interface (OpenWebUI => version intégrée à la Suite numérique)
 
 
 {% endstep %}
@@ -53,7 +53,7 @@ _Lancement d'une nouvelle version de l'interface (OpenWebUI => version intégré
 {% step %}
 #### **Fin 2025**
 
-_Début des travaux d’homologation de sécurité de l'Assistant IA_
+Début des travaux d’homologation de sécurité de l'Assistant IA
 
 
 {% endstep %}
@@ -61,9 +61,9 @@ _Début des travaux d’homologation de sécurité de l'Assistant IA_
 {% step %}
 #### **T1 2026**
 
-_Homologation de sécurité Assistant IA_
+Homologation de sécurité Assistant IA
 
-_Déploiement progressif aux administrations volontaires_
+Déploiement progressif aux administrations volontaires
 
 
 {% endstep %}
@@ -71,9 +71,9 @@ _Déploiement progressif aux administrations volontaires_
 {% step %}
 #### **T2 2026**
 
-_Bilan de l'expérimentation Mistral AI_
+Bilan de l'expérimentation Mistral AI
 
-_Mise en place d'une capacité de calcul interne pour la poursuite éventuelle du partenariat_
+Mise en place d'une capacité de calcul interne pour la poursuite éventuelle du partenariat
 {% endstep %}
 {% endstepper %}
 
