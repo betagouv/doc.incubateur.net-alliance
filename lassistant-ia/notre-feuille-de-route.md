@@ -5,15 +5,13 @@ icon: file-lines
 
 # Notre feuille de route
 
-* Supprimer le **shadow IT** (usage de LLMs non encadrés)
-
-
-
 {% hint style="success" %}
-**Nos avançons par itérations**, sur la base de vos retours. Pour participer à la co-construction de l'Assistant IA : \
-\
-[support-et-retours-utilisateurs.md](support-et-retours-utilisateurs.md "mention")
+**Nos avançons par itérations**, sur la base de vos retours. Pour participer à la co-construction de l'Assistant IA : [support-et-retours-utilisateurs.md](support-et-retours-utilisateurs.md "mention")
 {% endhint %}
+
+**Les prochaines étapes** \
+
+
 
 {% stepper %}
 {% step %}
@@ -76,21 +74,14 @@ Déploiement progressif aux administrations volontaires
 Bilan de l'expérimentation Mistral AI
 
 Mise en place d'une capacité de calcul interne pour la poursuite éventuelle du partenariat
-
-
 {% endstep %}
 {% endstepper %}
 
 ## Perspectives à moyen terme
 
+
+
 * **Diffusion large auprès des agents** en environnement bureautique classique
 * **Déclinaisons métiers** via des assistants thématiques
 * **Extension au champ “Diffusion Restreinte”**
-* **Modèle de financement pérenne à établir**\
-
-
-### **Deux types de compagnons métiers seront ciblés :**
-
-1. Textuels simples : développés directement dans OpenWebUI et intégrables dans d'autres interfaces.&#x20;
-2. &#x20;Demandant une adaptation d'interface (PDF, visualisation, logique métier...) : développés via la future interface simplifiée, guidés par les retours utilisateurs.
-
+* **Modèle de financement pérenne à établir**

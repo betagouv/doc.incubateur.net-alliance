@@ -56,5 +56,10 @@ Son rôle comprend :
 
 
 
+### **Deux types de compagnons métiers seront ciblés :**
+
+1. Textuels simples : développés directement dans OpenWebUI et intégrables dans d'autres interfaces.&#x20;
+2. &#x20;Demandant une adaptation d'interface (PDF, visualisation, logique métier...) : développés via la future interface simplifiée, guidés par les retours utilisateurs.
+
 
 
