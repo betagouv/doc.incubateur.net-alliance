@@ -38,7 +38,7 @@ icon: user-check
 {% endstep %}
 {% endstepper %}
 
-### Modalité d'accès et règles d'usages&#x20;
+### Modalités d'accès et règles d'usages&#x20;
 
 Vous pouvez avoir accès à l'Assistant IA **individuellement** ou comme **partenaire institutionnel** :&#x20;
 
