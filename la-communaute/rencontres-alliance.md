@@ -9,6 +9,13 @@ icon: calendar-star
 
 **Tous les deux mois**, la communauté de l'incubateur ALLiaNCE se réunit. Il s’agit d’une journée de rencontres et d’échanges en présentiel pour favoriser le partage d’expérience entre les différentes équipes, les différents ministères et les acteurs privés. Entre 60 et 100 membres de la communauté ALLiaNCE participent à cette journée : équipe produit, intrapreneurs et intrapreneuses, développeurs et développeuses, responsables d’incubateurs ministériels, coachs, designers du secteur public ou privé etc.
 
+{% hint style="info" %}
+**Prochaines dates des Rencontres ALLiaNCE :**&#x20;
+
+* Mercredi 22 octobre : 9h30 - 13h&#x20;
+* Mercredi 03 décembre : 9h30- 13h
+{% endhint %}
+
 Les rencontres ALLiaNCE  se déroulent au lieu de la transformation publique sous format de **forum ouvert**.
 
 {% hint style="success" %}
