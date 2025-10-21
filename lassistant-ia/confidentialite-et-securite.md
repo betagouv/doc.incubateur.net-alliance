@@ -12,18 +12,10 @@ La plateforme Assistant IA, qui est la partie interface, est hébergée par OPI 
 
 Cependant, la plateforme Assistant IA elle-même n'est pas encore homologuée.&#x20;
 
-
-
 ### Où vont mes données ?
 
 * Les conversations sont anonymisées et accessibles uniquement aux membres de l'équipe de l'Assistant IA pour améliorer l'expérience utilisateur.
 * L’anonymisation des conversations signifie que vos conversations ne sont pas enregistrées avec votre nom, prénom, mail ou identité. Toutefois, nous ne pouvons pas encore anonymiser les informations personnelles que vous enverriez par chat au modèle.
-* Les documents téléchargés dans l'interface sont supprimés régulièrement.&#x20;
+* Vous pouvez, conformément a l'image ci-dessous, désactiver l'analyse de votre conversation. Ainsi, celles-ci seront simplement stockées sur une infrastructure SecNumCloud, accessibles uniquement par l'utilisateur l'ayant créée, et ni analysées ni réutilisées.
 
-
-
-{% hint style="info" %}
-**Conversation confidentielle ?** Nous vous encourageons à utiliser la fonctionnalité "chat éphémère" pour éviter l'enregistrement de vos conversations.
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-10 à 15.29.55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-20 à 23.02.09.png" alt=""><figcaption></figcaption></figure>

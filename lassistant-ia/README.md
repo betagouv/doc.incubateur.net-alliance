@@ -7,78 +7,60 @@ icon: message-smile
 
 # L'Assistant IA
 
-{% hint style="success" %}
-L'Assistant IA conversationnel est conçu pour les agents de la fonction publique d'État, leur offrant un outil **souverain** et **sécurisé** pour **accélérer leurs tâches quotidiennes** grâce à l'intelligence artificielle.
+{% hint style="danger" %}
+Il n'est plus possible de demander un accès à cette expérimentation
 {% endhint %}
 
-Vous pouvez accéder au produit en vous rendant sur le [site de l'Assistant](https://albert.numerique.gouv.fr).
+{% hint style="success" %}
+Nous passons à la prochaine phase de l'expérimentation pour vous servir au mieux et au plus vite !
+{% endhint %}
 
-**Vous ne savez pas si vous avez le droit d'utiliser l'Assistant IA ?** Rendez-vous sur la page modalités d'accès :
+### 🧭 Assistant IA : fin de la phase 1 de l'expérimentation et suite du projet
 
-{% content-ref url="modalites-dacces-et-activation-du-compte.md" %}
-[modalites-dacces-et-activation-du-compte.md](modalites-dacces-et-activation-du-compte.md)
+Bonjour à toutes et à tous,
+
+L’expérimentation de **l’Assistant IA sous sa forme actuelle** touche à sa fin. Le plateforme disponible sur [https://albert.numerique.gouv.fr](https://albert.numerique.gouv.fr) va donc fermer ses portes prochainement.\
+Ces derniers mois nous ont permis de collecter de précieuses données et retours d’usage — autant d’enseignements qui nourrissent la création d’un outil plus **robuste**, **mieux adapté aux besoins identifiés pour la fonction publique d'état**.
+
+Nous avions besoin de vos retours d'utilisation de cet outil pour valider les hypothèses de besoin d'outils d'IA générative de ce genre pour l'administration. Vous avez été au rendez-vous et nous vous en remercions !
+
+Grâce à vous, nous passons à **la phase 2 🚀 de l'Assistant IA 🤖**
+
+#### 🚧 Et maintenant ?
+
+Un **nouvel Assistant IA** est en cours de développement, dans la continuité de la version actuelle, pleinement intégré à l'écosystème de [La Suite Numérique](https://lasuite.numerique.gouv.fr/), construit par et pour des agents publics.\
+Celui-ci sera :
+
+* en expérimentation **restreinte** à partir du 22 octobre 2025,
+* en expérimentation **ouverte** à partir de janvier 2026.
+
+Là ou la première expérimentation avait pour but de valider le besoin, celle-ci permettra de valider les choix techniques retenus et de commencer le déploiement plus large aux agents publics
+
+**🗼 Les points phares de la nouvelle version :**
+
+* Une recherche internet plus poussée
+* Des modèles plus performants
+* Un meilleur contrôle des données et de leur utilisation
+* Une démarche d'homologation facilitée par la maîtrise de toute la chaîne de conception du produit
+
+#### 🕓 Fermeture de la plateforme actuelle
+
+La plateforme actuelle devrait fermer **le 22 octobre 2025**, pour pouvoir pleinement expérimenter et tester la nouvelle version.
+
+#### 🧪 Votre administration fait partie de l'expérimentation restreinte ?&#x20;
+
+Vous pouvez dans ce cas trouver les informations pertinentes dans le guide de l'expérimentateur.&#x20;
+
+{% content-ref url="guide-de-lexperimentateur.md" %}
+[guide-de-lexperimentateur.md](guide-de-lexperimentateur.md)
 {% endcontent-ref %}
 
-**Vous voulez participer à l'évolution du produit, actuellement en beta  ?** Direction le canal Tchap pour être au courant des nouveautés et nous faire des retours sur le produit ou votre expérience :
+#### 💫 Vous avez utilisé régulièrement l'Assistant IA ?
 
-{% content-ref url="support-et-retours-utilisateurs.md" %}
-[support-et-retours-utilisateurs.md](support-et-retours-utilisateurs.md)
-{% endcontent-ref %}
+En prenant quelques minutes pour remplir le formulaire de retour ci-dessous, vous nous aiderez à améliorer la future version du produit.\
+🎁 Les **100 premiers utilisateurs** à le compléter pourront **accéder en avant-première** au **nouveau produit** dès son lancement fin octobre.
 
-**Vous avez accès à l'Assistant IA mais vous n'êtes pas sûr de comment l'utiliser ?** Vous trouverez des instructions et un guide d'usage sur cette page :
+[👉 Lien du formulaire](https://grist.numerique.gouv.fr/o/albert/forms/mQUfJ5b5bkSDbNerrc72pf/92)
 
-{% content-ref url="comment-utiliser-lassistant-ia.md" %}
-[comment-utiliser-lassistant-ia.md](comment-utiliser-lassistant-ia.md)
-{% endcontent-ref %}
-
-
-
-### Plus d'informations
-
-<details>
-
-<summary>Notre mission</summary>
-
-**Nous mettons l'intelligence artificielle au service de l'intérêt général en proposant une solution adaptée aux besoins spécifiques des administrations françaises**. Notre objectif est de permettre aux agents publics d'accéder aux gains de productivité offerts par l'IA générative, sans recourir à des solutions coûteuses ou non souveraines.
-
-</details>
-
-<details>
-
-<summary>Notre approche</summary>
-
-1.  **Une expérience agent intuitive**
-
-    &#x20;qui sensibilise aux bonnes pratiques d'utilisation de l'IA
-2.  **Un accès facilité et fiable aux données publiques**
-
-    &#x20;adapté aux spécificités métiers de chaque service
-
-</details>
-
-<details>
-
-<summary>Une solution développée pour et par le service public</summary>
-
-Notre équipe interministérielle combine **expertise technique** et **connaissance transversale des cas d'usage dans la sphère publique**. Cette double compétence nous permet de développer un outil adapté aux réalités du terrain et aux exigences particulières de l'administration.
-
-</details>
-
-<details>
-
-<summary>Notre solution modulaire et évolutive</summary>
-
-Notre solution s'articule autour de trois composantes complémentaires, permettant de répondre précisément aux différents besoins des administrations :
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4>1. Assistant IA conversationnel généraliste</h4></td><td><p><strong>Un outil polyvalent facilitant le travail quotidien des agents</strong> en leur permettant, par exemple, de :<br></p><ul><li><strong>Rédiger rapidement</strong> des contenus administratifs de qualité (notes, rapports, synthèses)</li><li><strong>Reformuler des textes</strong> pour améliorer leur clarté</li></ul><ul><li><strong>Analyser et résumer des documents</strong></li><li><strong>Mener des séances de brainstorming efficaces</strong> pour générer de nouvelles idées</li></ul></td><td><a href="comment-utiliser-lassistant-ia.md">comment-utiliser-lassistant-ia.md</a></td><td><a href="../.gitbook/assets/Capture d’écran 2025-05-19 à 18.30.43.png">Capture d’écran 2025-05-19 à 18.30.43.png</a></td></tr><tr><td><h4>2. Base documentaire intelligente</h4><p><strong>Une solution d'accès à l'information spécialement conçue pour l'administration</strong> qui :</p><ul><li><strong>Intègre des sources documentaires officielle</strong>s, à jour et validées</li><li><strong>Permet d'interroger en langage naturel</strong> l'ensemble des ressources pertinentes</li><li><strong>Fournit des réponses précises et référencées</strong> aux questions spécifiques</li><li><strong>Garantit la fiabilité</strong> des informations </li></ul></td><td></td><td></td><td><a href="../.gitbook/assets/Capture d’écran 2025-05-19 à 18.44.34.png">Capture d’écran 2025-05-19 à 18.44.34.png</a></td></tr><tr><td><h4>3. Compagnons IA métiers</h4></td><td><p>Des assistants spécialisés développés en co-construction avec les administrations qui :</p><ul><li><strong>S'adaptent aux besoins spécifiques de chaque métier</strong> de la fonction publique</li><li><strong>Intègrent les procédures et référentiels</strong> propres à chaque domaine d'expertise</li><li><strong>Proposent une assistance contextuelle pour les tâches complexes ou techniques</strong></li></ul></td><td><a href="quest-ce-que-les-compagnons/">quest-ce-que-les-compagnons</a></td><td></td></tr></tbody></table>
-
-</details>
-
-
-
-
-
-
-
-
-
+Merci à toutes et tous pour vos échanges, vos idées, vos tests et votre bienveillance tout au long de cette aventure 🙏\
+La suite s’annonce passionnante, et nous avons hâte de continuer à la construire avec vous.

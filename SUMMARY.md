@@ -23,15 +23,17 @@
 * [Utiliser l'IA générative dans l'administration](utiliser-lia-generative-dans-ladministration.md)
 * [L'IA dans la Suite numérique](lia-dans-la-suite-numerique.md)
 * [L'Assistant IA](lassistant-ia/README.md)
-  * [Ce que nous proposons aujourd'hui](lassistant-ia/ce-que-nous-proposons-aujourdhui.md)
-  * [Comment utiliser l'Assistant IA](lassistant-ia/comment-utiliser-lassistant-ia.md)
-  * [Notre feuille de route](lassistant-ia/notre-feuille-de-route.md)
-  * [Modalités d'accès et activation du compte](lassistant-ia/modalites-dacces-et-activation-du-compte.md)
-  * [Confidentialité et sécurité](lassistant-ia/confidentialite-et-securite.md)
-  * [Support et retours utilisateurs](lassistant-ia/support-et-retours-utilisateurs.md)
   * [Qu'est-ce que les compagnons ?](lassistant-ia/quest-ce-que-les-compagnons/README.md)
     * [Compagnons : Checklist entrée en construction](lassistant-ia/quest-ce-que-les-compagnons/compagnons-checklist-entree-en-construction.md)
   * [Open Web UI commu](lassistant-ia/open-web-ui-commu.md)
+  * [Guide de l'expérimentateur](lassistant-ia/guide-de-lexperimentateur.md)
+  * [Notre feuille de route](lassistant-ia/notre-feuille-de-route.md)
+  * [Confidentialité et sécurité](lassistant-ia/confidentialite-et-securite.md)
+  * [Documentation Archivée](lassistant-ia/documentation-archivee/README.md)
+    * [Support et retours utilisateurs](lassistant-ia/documentation-archivee/support-et-retours-utilisateurs.md)
+    * [Modalités d'accès et activation du compte](lassistant-ia/documentation-archivee/modalites-dacces-et-activation-du-compte.md)
+    * [Comment utiliser l'Assistant IA](lassistant-ia/documentation-archivee/comment-utiliser-lassistant-ia.md)
+    * [Ce que nous proposons aujourd'hui](lassistant-ia/documentation-archivee/ce-que-nous-proposons-aujourdhui.md)
 
 ## Faire des services IA au sein de l'État
 

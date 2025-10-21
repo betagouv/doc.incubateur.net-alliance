@@ -5,7 +5,7 @@ icon: file-lines
 # Notre feuille de route
 
 {% hint style="success" %}
-**Nos avançons par itérations**, **sur la base de vos retours. Pour participer à la co-construction de l'Assistant IA** : [support-et-retours-utilisateurs.md](support-et-retours-utilisateurs.md "mention")
+**Nos avançons par itérations**, **sur la base de vos retours. Pour participer à la co-construction de l'Assistant IA** : [support-et-retours-utilisateurs.md](documentation-archivee/support-et-retours-utilisateurs.md "mention")
 {% endhint %}
 
 **Les prochaines étapes** \
@@ -40,9 +40,9 @@ Travaux techniques avec Mistral AI
 {% step %}
 #### **Octobre 2025**
 
-Lancement officiel le 22 octobre
+Lancement officiel le 22 octobre.
 
-Déploiement auprès des premières administrations volontaires
+Déploiement auprès de 10 000 beta testeurs dans les premières administrations volontaires. A date, ces administrations ont déjà été contactées et un référent IA a été nommé en leur sein.
 
 Lancement d'une nouvelle version de l'interface (OpenWebUI => version intégrée à la Suite numérique)
 
