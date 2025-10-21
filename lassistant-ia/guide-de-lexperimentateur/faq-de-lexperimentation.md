@@ -151,3 +151,5 @@ L’Assistant IA est un produit développé par la **Direction interministériel
 L’Assistant IA est conçu pour répondre spécifiquement aux besoins des agents publics, dans un environnement souverain et sécurisé. Contrairement à des outils grand public comme ChatGPT, il est hébergé sur une infrastructure SecNumCloud et ne permet pas l’utilisation de données sensibles. Son efficacité dépendra des cas d’usage identifiés par les agents pendant l’expérimentation.
 
 #### Qu'est ce qu'Albert ?
+
+Albert est le nom de marque des produits IA interministériel. Seul l'API sous-jacente, Albert API, conserve ce nom de marque que nous avons tendance à faire remplacer par des termes plus évocateurs (comme l'Assistant IA) pour limiter les sources de confusion.
