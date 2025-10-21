@@ -47,7 +47,7 @@ Dans la version mise en ligne au 22/10, vous aurez accès aux fonctionnalités a
 
 Vous pourrez vous connecter à l'outil via **ProConnect**, en utilisant un code d'accès fourni par votre référent(e) IA. **Ne partagez pas ce code**.
 
-<figure><img src="../.gitbook/assets/image.png" alt="Capture d&#x27;écran de l&#x27;Assistant IA"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="Capture d&#x27;écran de l&#x27;Assistant IA"><figcaption></figcaption></figure>
 
 En fonction des progrès du projet, l'équipe anticipe de déployer, en cours d'expérimentation, les fonctionnalités suivantes :
 
@@ -110,4 +110,4 @@ Votre référent(e) vous a choisi(e) car il ou elle juge que vous serez un(e) pa
 
 Comme expliqué plus haut, **votre point de contact principal sera votre référent(e) IA**, nommé au sein de votre administration.
 
-Vous pouvez aussi échanger sur vos retours, idées, cas d'usages ou tout simplement parler d'IA sur [ce canal Tchap](https://tchap.gouv.fr/#/room/!eeDqhgOFDpthMyyUjK).
+Vous pouvez aussi échanger sur vos retours, idées, cas d'usages ou tout simplement parler d'IA sur [ce canal Tchap](https://www.tchap.gouv.fr/#/room/!eAHyPLdVHMxNhKAbaC).

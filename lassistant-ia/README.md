@@ -51,8 +51,8 @@ La plateforme actuelle devrait fermer **le 22 octobre 2025**, pour pouvoir plein
 
 Vous pouvez dans ce cas trouver les informations pertinentes dans le guide de l'expérimentateur.&#x20;
 
-{% content-ref url="guide-de-lexperimentateur.md" %}
-[guide-de-lexperimentateur.md](guide-de-lexperimentateur.md)
+{% content-ref url="guide-de-lexperimentateur/" %}
+[guide-de-lexperimentateur](guide-de-lexperimentateur/)
 {% endcontent-ref %}
 
 #### 💫 Vous avez utilisé régulièrement l'Assistant IA ?
