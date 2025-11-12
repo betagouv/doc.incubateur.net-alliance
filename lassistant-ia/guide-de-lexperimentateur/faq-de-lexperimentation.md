@@ -58,6 +58,8 @@ Non, l’utilisation de données sensibles (au sens de la [définition de l’AN
 
 Oui, toutes les données échangées via l’Assistant IA sont sécurisées selon les normes en vigueur pour les systèmes d’information de l’État. L’infrastructure est labellisée SecNumCloud, garantissant un niveau élevé de protection. La solution sera homologuée début 2026.
 
+De plus, les données d'une conversation (messages et documents téléversés) sont liées au compte de l'utilisateur et ne sont en aucun cas accessibles par d'autres utilisateurs.
+
 #### Les données et conversations sont-elles confidentielles ?
 
 Oui, la confidentialité des échanges est garantie. Seuls les administrateurs habilités de la DINUM et les référents IA ministériels peuvent accéder aux statistiques d’usage anonymes si l'utilisateur en a autorisé l'accès.
