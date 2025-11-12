@@ -64,11 +64,17 @@ Oui, la confidentialité des échanges est garantie. Seuls les administrateurs h
 
 #### Qui pourra accéder aux données (questions et réponses) ?
 
-Seuls les membres de l’équipe de coordination DINUM et les référents IA ministériels, dans le cadre de leur mission, pourront accéder à des données anonymisées, uniquement pour le suivi et l’amélioration du service.
+Seuls les membres de l’équipe produit de la DINUM ont accès à vos échanges anonymisés a des fins d'amélioration et de suivi de la performance, et ce uniquement si l'option "Autoriser l'analyse de conversation" est activée.
+
+L'équipe de coordination DINUM et les référents IA ministériels, dans le cadre de leur mission, pourront accéder à des données anonymisées et agrégées, uniquement pour le suivi de l'expérimentation.
+
+Vous pouvez **à tout moment** désactiver la possibilité pour l'équipe de voir vos conversations en vous rendant dans les paramètre. Ce réglage est disponible pour être le plus respectueux possible de vos souhaits personnels et de vos conditions de travail. Toutefois, l'analyse des conversations est essentielle à l'amélioration de l'outil, c'est pourquoi l'option est activée par défaut.
 
 #### Les échanges sont-ils utilisés pour l'entraînement du modèle ?
 
-Les échanges pourront être utilisés pour ré-entrainer un modèle et en améliorer la qualité, uniquement si l'utilisateur a autorisé l'accès à ses données d'usages pour améliorer le service.
+Les échanges ne sont pas utilisés pour entraîner des modèles, et ne le seront jamais. Vos échanges ne se retrouveront **jamais** dans la conversation d'un autre utilisateur.
+
+NB : La DINUM n'entraîne pas de modèles, et préfère utiliser des modèles du marché, qu'ils soient à poids ouverts ou propriétaires. Les données ne seront donc pas utilisées pour entraîner un modèle, ni d'aucune manière qui pourrait les rendre découvrables par d'autres. En revanche, les données peuvent être utilisées par l'équipe produit de l'Assistant IA, pour améliorer le service et notamment aiguiller la feuille de route, uniquement si l'utilisateur a autorisé l'accès à ses données d'usages. **Les utilisateurs peuvent facilement interdire l'usage de ses données** via leurs paramètres.
 
 ### Cas d'usages
 
