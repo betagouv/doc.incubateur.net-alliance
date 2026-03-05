@@ -63,8 +63,7 @@ _Exemple : 200 000 €/an incluant GPU et expertise, cofinancé à 50 % par 
 
 #### Stade de développement
 
-* **Votre produit est-il actuellement en production, même modeste ?**\
-
+* **Votre produit est-il actuellement en production, même modeste ?**<br>
 
 **Expérimentation et itérations**
 
@@ -93,8 +92,7 @@ Le ROI doit refléter des gains quantifiables et des bénéfices qualitatifs :
   * Temps économisé par les agents ou les utilisateurs finaux (en heures ou jours).
 * **Bénéfices qualitatifs :**
   * Satisfaction des bénéficiaires grâce à des réponses plus rapides et fiables.
-  * Amélioration des processus internes, réduisant la surcharge administrative.\
-
+  * Amélioration des processus internes, réduisant la surcharge administrative.<br>
 
 **Potentiel de mutualisation et réplicabilité**
 

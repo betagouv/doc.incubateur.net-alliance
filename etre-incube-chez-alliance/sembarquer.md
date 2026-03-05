@@ -39,9 +39,7 @@ Cela permet d'avoir accès à tous les outils de la communauté, et d'obtenir un
 [ ] 
     <div data-full-width="false"><figure><img src="../.gitbook/assets/Capture d’écran 2025-05-06 à 12.32.44.png" alt=""><figcaption></figcaption></figure></div>
 
-    {% hint style="info" %}
-    Tu peux explorer l’espace dédié à l’IA dans l’État. En bas de la page d’accueil, tu trouveras tous les sous-espaces disponibles.&#x20;
-    {% endhint %}
+    <div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p>Tu peux explorer l’espace dédié à l’IA dans l’État. En bas de la page d’accueil, tu trouveras tous les sous-espaces disponibles. </p></div>
 {% endstep %}
 
 {% step %}
@@ -51,8 +49,7 @@ Cela permet d'avoir accès à tous les outils de la communauté, et d'obtenir un
 
 {% hint style="info" %}
 [**La suite numérique**](https://lasuite.numerique.gouv.fr/)\
-**Grist** est un gestionnaire de bases de données, équivalent à Airtable ; **Docs** est un gestionnaire de notes collaboratives ; **Visio** permet de faire des réunions vidéos. Le tout de manière souveraine et en toute sécurité !  \
-
+**Grist** est un gestionnaire de bases de données, équivalent à Airtable ; **Docs** est un gestionnaire de notes collaboratives ; **Visio** permet de faire des réunions vidéos. Le tout de manière souveraine et en toute sécurité !  <br>
 {% endhint %}
 {% endstep %}
 
@@ -76,7 +73,7 @@ ALLiaNCE fait partie du réseau d'incubateurs **beta.gouv**, une communauté plu
 ### La to-do pour 💻 Développeurs / développeuses
 
 * #### Rencontrer le CTO de l'incubateur Luis Arias, disponible sur Tchap
-* #### Te familiariser avec [Albert-api](../faire-des-services-ia-au-sein-de-letat/albert-api-linfra-ia-souveraine-de-letat.md) et l'[Assistant IA](../lassistant-ia/).
+* #### Te familiariser avec [Albert-api](../albert-api-linfrastructure-ia-souveraine-de-letat.md) et l'[Assistant IA](../lassistant-ia/).
 {% endhint %}
 
 

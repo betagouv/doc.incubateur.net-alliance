@@ -2,4 +2,4 @@
 title: Untitled
 ---
 
-<div data-full-width="false"><figure><img src="../assets/Capture d’écran 2025-05-06 à 12.32.44.png" alt=""><figcaption></figcaption></figure></div>
+{% embed url="https://alliance.numerique.gouv.fr/%C3%AAtre-accompagn%C3%A9-par-alliance/%C3%AAtre-incub%C3%A9/" %}

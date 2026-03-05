@@ -6,8 +6,7 @@ hidden: true
 
 L'équipe Albert conversation accompagne les administrations  pour spécialiser l'usage de l'IA à des métiers et/ou thématiques lorsque les prompts et usages génériques ne suffisent pas.
 
-Cette démarche, menée en co-construction avec les administrations, vise à créer des agents IA spécialisés, appelés « compagnons », capables par exemple d’interroger et d’analyser une base documentaire définie par l’administration.\
-
+Cette démarche, menée en co-construction avec les administrations, vise à créer des agents IA spécialisés, appelés « compagnons », capables par exemple d’interroger et d’analyser une base documentaire définie par l’administration.<br>
 
 ### Les compagnons sont des agents IA spécialisés sur des tâches, des bases documentaires ou des process : &#x20;
 

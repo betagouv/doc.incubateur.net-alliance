@@ -8,9 +8,8 @@ icon: file-lines
 **Nos avançons par itérations**, **sur la base de vos retours. Pour participer à la co-construction de l'Assistant IA** : [support-et-retours-utilisateurs.md](documentation-archivee/support-et-retours-utilisateurs.md "mention")
 {% endhint %}
 
-**Les prochaines étapes** \
-
-
+**Les prochaines étapes** <br>
+------------------------------
 
 {% stepper %}
 {% step %}
