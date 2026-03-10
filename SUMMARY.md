@@ -44,6 +44,7 @@
 
 * [Utiliser l'IA générative dans l'administration](guides/utiliser-lia-generative-dans-ladministration.md)
 * [Guide d'installation des LLMs (2024)](guides/guide-dinstallation-des-llms-2024.md)
+* [Albert API - RAG - techniques avancées - Rerank](guides/albert-api-rag-techniques-avancees-rerank.md)
 
 ## RESSOURCES
 
