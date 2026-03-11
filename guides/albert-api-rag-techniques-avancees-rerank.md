@@ -4,21 +4,21 @@ icon: file-lines
 
 # Albert API - RAG - techniques avancées - Rerank
 
-Albert API propose un endpoint POST `/v1/rerank` qui permet d'appeler des modèles de reranking. Ces modèles sont particulièrement intéressants pour améliorer votre pipeline de RAG (Retrieval Augmented Generation).\
-\
-**Dans ce tutoriel nous allons voir :**&#x20;
+Albert API propose un endpoint POST `/v1/rerank` qui permet d'appeler des modèles de reranking. Ces modèles sont particulièrement intéressants pour améliorer votre pipeline de RAG (Retrieval Augmented Generation).
+
+**Dans ce tutoriel nous allons voir :**
 
 * **pourquoi utiliser un modèle de reranking,**
-* **qu'est-ce qu'un modèle reranking**&#x20;
+* **qu'est-ce qu'un modèle reranking**,
 * **quand l'utiliser**
 * **comment l'utiliser.**
 
 ## Prérequis
 
 * Connaissance des notions de RAG, de vector-store, d'embeddings et de chunks
-* Connaissance de l'upload et de la recherche de documents avec Albert API.&#x20;
+* Connaissance de l'upload et de la recherche de documents avec Albert API.
 
-&#x20;Pour en savoir plus sur ces notions, voir le guide Construire un RAG avec Albert API _(à venir)_.
+Pour en savoir plus sur ces notions, voir le guide Construire un RAG avec Albert API _(à venir)_.
 
 ## Pourquoi utiliser le reranking ?
 
@@ -28,9 +28,9 @@ Lorsque vous construisez un système de RAG, vous devez :
 2. Sélectionner les meilleurs passages
 3. Les envoyer au modèle de génération
 
-Le problème : la recherche vectorielle retourne souvent **des résultats approximatifs**. \
-\
-En effet, que ce soit avec une recherche sémantique, lexicale ou hybride, **la recherche dans un vector store est une recherche à larges mailles**. Elle permet ainsi de retrouver les _chunks_ qui gravitent autour de la requête recherchée mais cela peut prendre dans le filet des chunks relativement éloignés contextuellement.&#x20;
+Le problème : la recherche vectorielle retourne souvent **des résultats approximatifs**. 
+
+En effet, que ce soit avec une recherche sémantique, lexicale ou hybride, **la recherche dans un vector store est une recherche à larges mailles**. Elle permet ainsi de retrouver les _chunks_ qui gravitent autour de la requête recherchée mais cela peut prendre dans le filet des chunks relativement éloignés contextuellement.
 
 En conséquence, un moteur vectoriel est très rapide, mais il peut retourner :
 
@@ -127,6 +127,10 @@ chunks = [chunk.content for chunk in data.chunk]
 
 C’est pourquoi on ajoute une étape de **reranking**.
 
+{% hint style="tip" %}
+Le reranking est utile quelque soit la méthode de recherche utilisée (sémantique, lexicale, hybride). Attention toutefois, il peut être inutile, voir contre-productif. Voir les [bonnes pratiques](#bonnes-pratiques) pour plus d'informations.
+{% endhint %}
+
 ### Étape 2. Reranking
 
 Le reranker réévalue les documents retournés par la recherche vectorielle afin de déterminer **les plus pertinents pour la requête**.
@@ -160,25 +164,13 @@ data = response.json()
 {
   "results": [
     {
-      "index": 2,
-      "relevance_score": 0.98
+      "index": 2, // Position du document dans la liste d'entrée
+      "relevance_score": 0.98 // Score de pertinence calculé par le modèle
     },
-    {
-      "index": 1,
-      "relevance_score": 0.76
-    },
-    {
-      "index": 3,
-      "relevance_score": 0.41
-    }
+    ...
   ]
 }
-```
-
-| Champ             | Description                                 |
-| ----------------- | ------------------------------------------- |
-| `index`           | Position du document dans la liste d'entrée |
-| `relevance_score` | Score de pertinence calculé par le modèle   |
+``` 
 
 ### Étape 3. Reconstruction des documents triés
 
@@ -198,7 +190,7 @@ On injecte les documents les plus pertinents dans le prompt du LLM comme _openwe
 
 {% tabs %}
 {% tab title="Python" %}
-```
+```python
 rag_template = """Réponds à la question en te basant sur les documents suivants. 
 Si la réponse à la question n'est pas  dans les documents, indique que tu ne 
 t'es pas appuyé sur ces documents pour générer la réponse, sinon cite les 
@@ -232,20 +224,23 @@ Le modèle utilise alors **le contexte fourni pour générer une réponse plus f
 
 ## Bonnes pratiques
 
-#### 1. Reranker plus de documents que nécessaire
+### 1. Reranker plus de documents que nécessaire
 
-Pipeline recommandé :
-
-```
-Vector search → limit = 20 à 50
-Rerank        → top_n = 3 à 10
-```
+Pipeline recommandée :
+* Search : limit = 20 à 50
+* Rerank : top_n = 3 à 10
 
 Cela permet au reranker de choisir les documents les plus pertinents parmi un ensemble suffisamment large.
 
-#### 2. Utiliser des chunks courts
+### 2. Utiliser des chunks courts
 
 La qualité du reranking dépend fortement de la taille des documents. Nous recommandons 100 à 500 tokens par chunk.
 
 Les documents trop longs diluent l’information importante et réduisent la précision du reranker.
 
+### 3. Le reranking peut être inutile ou contre-productif
+
+Le reranking est un outil puissant, mais il ne faut pas l'utiliser à chaque fois. 
+Vous devez déterminer si le reranking est nécessaire pour votre cas d'usage en testant des requêtes sur vos documents. Par exemple, la recherche hybride peut obtenir des scores de pertinence dans certains cas plus précis que le reranking. Dans ce cas, ce dernier va éliminer des documents pertinents.
+
+Comme pour toute technique, il faut tester et mesurer les performances à l'aide d'un processus de d'évaluation.
