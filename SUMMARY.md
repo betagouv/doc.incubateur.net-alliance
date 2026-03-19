@@ -13,8 +13,6 @@
 
 ## Socle Interministérielle d'Intelligence Artificielle Générative
 
-***
-
 * [Le socle interministériel d'intelligence artificielle générative](le-socle-interministeriel-dintelligence-artificielle-generative.md)
 * [Albert API, l'infrastructure IA souveraine de l'État](albert-api-linfrastructure-ia-souveraine-de-letat.md)
 * [Une plateforme de données pour l'IA](une-plateforme-de-donnees-pour-lia.md)
